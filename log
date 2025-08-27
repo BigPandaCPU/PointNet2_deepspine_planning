@@ -1,0 +1,970 @@
+C:\ProgramData\Anaconda3\python.exe D:\project\PyProject\SpineLandmark\SpinePedicleSurgeryPlanning.py
+C:\ProgramData\Anaconda3\lib\site-packages\numpy\core\fromnumeric.py:3441: RuntimeWarning: Mean of empty slice.
+  out=out, **kwargs)
+C:\ProgramData\Anaconda3\lib\site-packages\numpy\core\_methods.py:182: RuntimeWarning: invalid value encountered in true_divide
+  ret, rcount, out=ret, casting='unsafe', subok=False)
+bad stl: 1.3.6.1.4.1.9328.50.4.0002_seg_label_14.stl
+bad stl: 1.3.6.1.4.1.9328.50.4.0005_seg_label_24.stl
+bad stl: 1.3.6.1.4.1.9328.50.4.0007_seg_label_18.stl
+bad stl: 1.3.6.1.4.1.9328.50.4.0009_seg_label_17.stl
+bad stl: 1.3.6.1.4.1.9328.50.4.0010_seg_label_16.stl
+bad stl: 1.3.6.1.4.1.9328.50.4.0011_seg_label_16.stl
+bad stl: 1.3.6.1.4.1.9328.50.4.0012_seg_label_17.stl
+bad stl: 1.3.6.1.4.1.9328.50.4.0013_seg_label_17.stl
+bad stl: 1.3.6.1.4.1.9328.50.4.0015_seg_label_17.stl
+bad stl: 1.3.6.1.4.1.9328.50.4.0016_seg_label_16.stl
+bad stl: 1.3.6.1.4.1.9328.50.4.0017_seg_label_18.stl
+bad stl: 1.3.6.1.4.1.9328.50.4.0019_seg_label_18.stl
+C:\ProgramData\Anaconda3\lib\site-packages\numpy\core\fromnumeric.py:3441: RuntimeWarning: Mean of empty slice.
+  out=out, **kwargs)
+C:\ProgramData\Anaconda3\lib\site-packages\numpy\core\_methods.py:182: RuntimeWarning: invalid value encountered in true_divide
+  ret, rcount, out=ret, casting='unsafe', subok=False)
+bad stl: 1.3.6.1.4.1.9328.50.4.0020_seg_label_16.stl
+bad stl: 1.3.6.1.4.1.9328.50.4.0021_seg_label_16.stl
+bad stl: 1.3.6.1.4.1.9328.50.4.0025_seg_label_16.stl
+C:\ProgramData\Anaconda3\lib\site-packages\numpy\core\fromnumeric.py:3441: RuntimeWarning: Mean of empty slice.
+  out=out, **kwargs)
+C:\ProgramData\Anaconda3\lib\site-packages\numpy\core\_methods.py:182: RuntimeWarning: invalid value encountered in true_divide
+  ret, rcount, out=ret, casting='unsafe', subok=False)
+bad stl: 1.3.6.1.4.1.9328.50.4.0026_seg_label_15.stl
+bad stl: 1.3.6.1.4.1.9328.50.4.0027_seg_label_16.stl
+bad stl: 1.3.6.1.4.1.9328.50.4.0028_seg_label_16.stl
+bad stl: 1.3.6.1.4.1.9328.50.4.0032_seg_label_17.stl
+C:\ProgramData\Anaconda3\lib\site-packages\numpy\core\fromnumeric.py:3441: RuntimeWarning: Mean of empty slice.
+  out=out, **kwargs)
+C:\ProgramData\Anaconda3\lib\site-packages\numpy\core\_methods.py:182: RuntimeWarning: invalid value encountered in true_divide
+  ret, rcount, out=ret, casting='unsafe', subok=False)
+bad stl: 1.3.6.1.4.1.9328.50.4.0035_seg_label_16.stl
+bad stl: 1.3.6.1.4.1.9328.50.4.0036_seg_label_16.stl
+bad stl: 1.3.6.1.4.1.9328.50.4.0037_seg_label_17.stl
+bad stl: 1.3.6.1.4.1.9328.50.4.0038_seg_label_14.stl
+bad stl: 1.3.6.1.4.1.9328.50.4.0041_seg_label_15.stl
+bad stl: 1.3.6.1.4.1.9328.50.4.0042_seg_label_18.stl
+bad stl: 1.3.6.1.4.1.9328.50.4.0045_seg_label_18.stl
+bad stl: 1.3.6.1.4.1.9328.50.4.0048_seg_label_16.stl
+bad stl: 1.3.6.1.4.1.9328.50.4.0050_seg_label_15.stl
+bad stl: 1.3.6.1.4.1.9328.50.4.0052_seg_label_15.stl
+bad stl: 1.3.6.1.4.1.9328.50.4.0054_seg_label_15.stl
+bad stl: 1.3.6.1.4.1.9328.50.4.0055_seg_label_17.stl
+bad stl: 1.3.6.1.4.1.9328.50.4.0058_seg_label_16.stl
+bad stl: 1.3.6.1.4.1.9328.50.4.0059_seg_label_16.stl
+bad stl: 1.3.6.1.4.1.9328.50.4.0062_seg_label_17.stl
+bad stl: 1.3.6.1.4.1.9328.50.4.0063_seg_label_15.stl
+C:\ProgramData\Anaconda3\lib\site-packages\numpy\core\fromnumeric.py:3441: RuntimeWarning: Mean of empty slice.
+  out=out, **kwargs)
+C:\ProgramData\Anaconda3\lib\site-packages\numpy\core\_methods.py:182: RuntimeWarning: invalid value encountered in true_divide
+  ret, rcount, out=ret, casting='unsafe', subok=False)
+C:\ProgramData\Anaconda3\lib\site-packages\numpy\core\fromnumeric.py:3441: RuntimeWarning: Mean of empty slice.
+  out=out, **kwargs)
+C:\ProgramData\Anaconda3\lib\site-packages\numpy\core\_methods.py:182: RuntimeWarning: invalid value encountered in true_divide
+  ret, rcount, out=ret, casting='unsafe', subok=False)
+bad stl: 1.3.6.1.4.1.9328.50.4.0065_seg_label_15.stl
+bad stl: 1.3.6.1.4.1.9328.50.4.0066_seg_label_16.stl
+bad stl: 1.3.6.1.4.1.9328.50.4.0071_seg_label_18.stl
+bad stl: 1.3.6.1.4.1.9328.50.4.0072_seg_label_18.stl
+bad stl: 1.3.6.1.4.1.9328.50.4.0073_seg_label_15.stl
+bad stl: 1.3.6.1.4.1.9328.50.4.0076_seg_label_15.stl
+bad stl: 1.3.6.1.4.1.9328.50.4.0078_seg_label_16.stl
+bad stl: 1.3.6.1.4.1.9328.50.4.0079_seg_label_17.stl
+bad stl: 1.3.6.1.4.1.9328.50.4.0082_seg_label_17.stl
+bad stl: 1.3.6.1.4.1.9328.50.4.0084_seg_label_14.stl
+bad stl: 1.3.6.1.4.1.9328.50.4.0086_seg_label_15.stl
+C:\ProgramData\Anaconda3\lib\site-packages\numpy\core\fromnumeric.py:3441: RuntimeWarning: Mean of empty slice.
+  out=out, **kwargs)
+C:\ProgramData\Anaconda3\lib\site-packages\numpy\core\_methods.py:182: RuntimeWarning: invalid value encountered in true_divide
+  ret, rcount, out=ret, casting='unsafe', subok=False)
+bad stl: 1.3.6.1.4.1.9328.50.4.0087_seg_label_14.stl
+bad stl: 1.3.6.1.4.1.9328.50.4.0088_seg_label_15.stl
+bad stl: 1.3.6.1.4.1.9328.50.4.0089_seg_label_16.stl
+bad stl: 1.3.6.1.4.1.9328.50.4.0092_seg_label_16.stl
+bad stl: 1.3.6.1.4.1.9328.50.4.0094_seg_label_15.stl
+bad stl: 1.3.6.1.4.1.9328.50.4.0096_seg_label_18.stl
+C:\ProgramData\Anaconda3\lib\site-packages\numpy\core\fromnumeric.py:3441: RuntimeWarning: Mean of empty slice.
+  out=out, **kwargs)
+C:\ProgramData\Anaconda3\lib\site-packages\numpy\core\_methods.py:182: RuntimeWarning: invalid value encountered in true_divide
+  ret, rcount, out=ret, casting='unsafe', subok=False)
+bad stl: 1.3.6.1.4.1.9328.50.4.0097_seg_label_17.stl
+bad stl: 1.3.6.1.4.1.9328.50.4.0098_seg_label_15.stl
+C:\ProgramData\Anaconda3\lib\site-packages\numpy\core\fromnumeric.py:3441: RuntimeWarning: Mean of empty slice.
+  out=out, **kwargs)
+C:\ProgramData\Anaconda3\lib\site-packages\numpy\core\_methods.py:182: RuntimeWarning: invalid value encountered in true_divide
+  ret, rcount, out=ret, casting='unsafe', subok=False)
+bad stl: 1.3.6.1.4.1.9328.50.4.0104_seg_label_14.stl
+bad stl: 1.3.6.1.4.1.9328.50.4.0105_seg_label_14.stl
+C:\ProgramData\Anaconda3\lib\site-packages\numpy\core\fromnumeric.py:3441: RuntimeWarning: Mean of empty slice.
+  out=out, **kwargs)
+C:\ProgramData\Anaconda3\lib\site-packages\numpy\core\_methods.py:182: RuntimeWarning: invalid value encountered in true_divide
+  ret, rcount, out=ret, casting='unsafe', subok=False)
+bad stl: 1.3.6.1.4.1.9328.50.4.0106_seg_label_16.stl
+C:\ProgramData\Anaconda3\lib\site-packages\numpy\core\fromnumeric.py:3441: RuntimeWarning: Mean of empty slice.
+  out=out, **kwargs)
+C:\ProgramData\Anaconda3\lib\site-packages\numpy\core\_methods.py:182: RuntimeWarning: invalid value encountered in true_divide
+  ret, rcount, out=ret, casting='unsafe', subok=False)
+bad stl: 1.3.6.1.4.1.9328.50.4.0107_seg_label_17.stl
+C:\ProgramData\Anaconda3\lib\site-packages\numpy\core\fromnumeric.py:3441: RuntimeWarning: Mean of empty slice.
+  out=out, **kwargs)
+C:\ProgramData\Anaconda3\lib\site-packages\numpy\core\_methods.py:182: RuntimeWarning: invalid value encountered in true_divide
+  ret, rcount, out=ret, casting='unsafe', subok=False)
+bad stl: 1.3.6.1.4.1.9328.50.4.0110_seg_label_15.stl
+bad stl: 1.3.6.1.4.1.9328.50.4.0111_seg_label_16.stl
+bad stl: 1.3.6.1.4.1.9328.50.4.0112_seg_label_15.stl
+C:\ProgramData\Anaconda3\lib\site-packages\numpy\core\fromnumeric.py:3441: RuntimeWarning: Mean of empty slice.
+  out=out, **kwargs)
+C:\ProgramData\Anaconda3\lib\site-packages\numpy\core\_methods.py:182: RuntimeWarning: invalid value encountered in true_divide
+  ret, rcount, out=ret, casting='unsafe', subok=False)
+bad stl: 1.3.6.1.4.1.9328.50.4.0113_seg_label_16.stl
+bad stl: 1.3.6.1.4.1.9328.50.4.0114_seg_label_17.stl
+bad stl: 1.3.6.1.4.1.9328.50.4.0116_seg_label_15.stl
+bad stl: 1.3.6.1.4.1.9328.50.4.0118_seg_label_17.stl
+bad stl: 1.3.6.1.4.1.9328.50.4.0120_seg_label_17.stl
+bad stl: 1.3.6.1.4.1.9328.50.4.0121_seg_label_17.stl
+bad stl: 1.3.6.1.4.1.9328.50.4.0122_seg_label_16.stl
+bad stl: 1.3.6.1.4.1.9328.50.4.0123_seg_label_13.stl
+bad stl: 1.3.6.1.4.1.9328.50.4.0125_seg_label_13.stl
+C:\ProgramData\Anaconda3\lib\site-packages\numpy\core\fromnumeric.py:3441: RuntimeWarning: Mean of empty slice.
+  out=out, **kwargs)
+C:\ProgramData\Anaconda3\lib\site-packages\numpy\core\_methods.py:182: RuntimeWarning: invalid value encountered in true_divide
+  ret, rcount, out=ret, casting='unsafe', subok=False)
+bad stl: 1.3.6.1.4.1.9328.50.4.0129_seg_label_16.stl
+bad stl: 1.3.6.1.4.1.9328.50.4.0130_seg_label_13.stl
+bad stl: 1.3.6.1.4.1.9328.50.4.0136_seg_label_15.stl
+bad stl: 1.3.6.1.4.1.9328.50.4.0137_seg_label_15.stl
+bad stl: 1.3.6.1.4.1.9328.50.4.0139_seg_label_13.stl
+bad stl: 1.3.6.1.4.1.9328.50.4.0141_seg_label_15.stl
+bad stl: 1.3.6.1.4.1.9328.50.4.0144_seg_label_15.stl
+bad stl: 1.3.6.1.4.1.9328.50.4.0145_seg_label_16.stl
+bad stl: 1.3.6.1.4.1.9328.50.4.0146_seg_label_15.stl
+bad stl: 1.3.6.1.4.1.9328.50.4.0148_seg_label_17.stl
+bad stl: 1.3.6.1.4.1.9328.50.4.0149_seg_label_14.stl
+bad stl: 1.3.6.1.4.1.9328.50.4.0150_seg_label_18.stl
+bad stl: 1.3.6.1.4.1.9328.50.4.0151_seg_label_16.stl
+bad stl: 1.3.6.1.4.1.9328.50.4.0153_seg_label_17.stl
+C:\ProgramData\Anaconda3\lib\site-packages\numpy\core\fromnumeric.py:3441: RuntimeWarning: Mean of empty slice.
+  out=out, **kwargs)
+C:\ProgramData\Anaconda3\lib\site-packages\numpy\core\_methods.py:182: RuntimeWarning: invalid value encountered in true_divide
+  ret, rcount, out=ret, casting='unsafe', subok=False)
+bad stl: 1.3.6.1.4.1.9328.50.4.0155_seg_label_16.stl
+bad stl: 1.3.6.1.4.1.9328.50.4.0157_seg_label_17.stl
+bad stl: 1.3.6.1.4.1.9328.50.4.0158_seg_label_16.stl
+C:\ProgramData\Anaconda3\lib\site-packages\numpy\core\fromnumeric.py:3441: RuntimeWarning: Mean of empty slice.
+  out=out, **kwargs)
+C:\ProgramData\Anaconda3\lib\site-packages\numpy\core\_methods.py:182: RuntimeWarning: invalid value encountered in true_divide
+  ret, rcount, out=ret, casting='unsafe', subok=False)
+bad stl: 1.3.6.1.4.1.9328.50.4.0159_seg_label_17.stl
+C:\ProgramData\Anaconda3\lib\site-packages\numpy\core\fromnumeric.py:3441: RuntimeWarning: Mean of empty slice.
+  out=out, **kwargs)
+C:\ProgramData\Anaconda3\lib\site-packages\numpy\core\_methods.py:182: RuntimeWarning: invalid value encountered in true_divide
+  ret, rcount, out=ret, casting='unsafe', subok=False)
+bad stl: 1.3.6.1.4.1.9328.50.4.0160_seg_label_15.stl
+bad stl: 1.3.6.1.4.1.9328.50.4.0162_seg_label_15.stl
+bad stl: 1.3.6.1.4.1.9328.50.4.0163_seg_label_19.stl
+bad stl: 1.3.6.1.4.1.9328.50.4.0166_seg_label_16.stl
+bad stl: 1.3.6.1.4.1.9328.50.4.0167_seg_label_14.stl
+bad stl: 1.3.6.1.4.1.9328.50.4.0168_seg_label_15.stl
+bad stl: 1.3.6.1.4.1.9328.50.4.0170_seg_label_14.stl
+bad stl: 1.3.6.1.4.1.9328.50.4.0171_seg_label_14.stl
+bad stl: 1.3.6.1.4.1.9328.50.4.0174_seg_label_17.stl
+bad stl: 1.3.6.1.4.1.9328.50.4.0176_seg_label_16.stl
+bad stl: 1.3.6.1.4.1.9328.50.4.0178_seg_label_14.stl
+C:\ProgramData\Anaconda3\lib\site-packages\numpy\core\fromnumeric.py:3441: RuntimeWarning: Mean of empty slice.
+  out=out, **kwargs)
+C:\ProgramData\Anaconda3\lib\site-packages\numpy\core\_methods.py:182: RuntimeWarning: invalid value encountered in true_divide
+  ret, rcount, out=ret, casting='unsafe', subok=False)
+bad stl: 1.3.6.1.4.1.9328.50.4.0179_seg_label_16.stl
+bad stl: 1.3.6.1.4.1.9328.50.4.0181_seg_label_15.stl
+bad stl: 1.3.6.1.4.1.9328.50.4.0184_seg_label_15.stl
+C:\ProgramData\Anaconda3\lib\site-packages\numpy\core\fromnumeric.py:3441: RuntimeWarning: Mean of empty slice.
+  out=out, **kwargs)
+C:\ProgramData\Anaconda3\lib\site-packages\numpy\core\_methods.py:182: RuntimeWarning: invalid value encountered in true_divide
+  ret, rcount, out=ret, casting='unsafe', subok=False)
+bad stl: 1.3.6.1.4.1.9328.50.4.0185_seg_label_16.stl
+bad stl: 1.3.6.1.4.1.9328.50.4.0187_seg_label_14.stl
+bad stl: 1.3.6.1.4.1.9328.50.4.0188_seg_label_17.stl
+bad stl: 1.3.6.1.4.1.9328.50.4.0193_seg_label_19.stl
+bad stl: 1.3.6.1.4.1.9328.50.4.0194_seg_label_16.stl
+bad stl: 1.3.6.1.4.1.9328.50.4.0195_seg_label_16.stl
+bad stl: 1.3.6.1.4.1.9328.50.4.0199_seg_label_15.stl
+C:\ProgramData\Anaconda3\lib\site-packages\numpy\core\fromnumeric.py:3441: RuntimeWarning: Mean of empty slice.
+  out=out, **kwargs)
+C:\ProgramData\Anaconda3\lib\site-packages\numpy\core\_methods.py:182: RuntimeWarning: invalid value encountered in true_divide
+  ret, rcount, out=ret, casting='unsafe', subok=False)
+bad stl: 1.3.6.1.4.1.9328.50.4.0199_seg_label_16.stl
+bad stl: 1.3.6.1.4.1.9328.50.4.0201_seg_label_17.stl
+bad stl: 1.3.6.1.4.1.9328.50.4.0202_seg_label_18.stl
+bad stl: 1.3.6.1.4.1.9328.50.4.0204_seg_label_15.stl
+bad stl: 1.3.6.1.4.1.9328.50.4.0206_seg_label_13.stl
+bad stl: 1.3.6.1.4.1.9328.50.4.0208_seg_label_16.stl
+bad stl: 1.3.6.1.4.1.9328.50.4.0214_seg_label_18.stl
+bad stl: 1.3.6.1.4.1.9328.50.4.0216_seg_label_16.stl
+bad stl: 1.3.6.1.4.1.9328.50.4.0217_seg_label_15.stl
+bad stl: 1.3.6.1.4.1.9328.50.4.0218_seg_label_18.stl
+bad stl: 1.3.6.1.4.1.9328.50.4.0219_seg_label_16.stl
+bad stl: 1.3.6.1.4.1.9328.50.4.0222_seg_label_14.stl
+bad stl: 1.3.6.1.4.1.9328.50.4.0223_seg_label_15.stl
+bad stl: 1.3.6.1.4.1.9328.50.4.0224_seg_label_17.stl
+bad stl: 1.3.6.1.4.1.9328.50.4.0225_seg_label_16.stl
+bad stl: 1.3.6.1.4.1.9328.50.4.0226_seg_label_17.stl
+bad stl: 1.3.6.1.4.1.9328.50.4.0227_seg_label_16.stl
+bad stl: 1.3.6.1.4.1.9328.50.4.0229_seg_label_16.stl
+C:\ProgramData\Anaconda3\lib\site-packages\numpy\core\fromnumeric.py:3441: RuntimeWarning: Mean of empty slice.
+  out=out, **kwargs)
+C:\ProgramData\Anaconda3\lib\site-packages\numpy\core\_methods.py:182: RuntimeWarning: invalid value encountered in true_divide
+  ret, rcount, out=ret, casting='unsafe', subok=False)
+bad stl: 1.3.6.1.4.1.9328.50.4.0231_seg_label_14.stl
+bad stl: 1.3.6.1.4.1.9328.50.4.0232_seg_label_16.stl
+C:\ProgramData\Anaconda3\lib\site-packages\numpy\core\fromnumeric.py:3441: RuntimeWarning: Mean of empty slice.
+  out=out, **kwargs)
+C:\ProgramData\Anaconda3\lib\site-packages\numpy\core\_methods.py:182: RuntimeWarning: invalid value encountered in true_divide
+  ret, rcount, out=ret, casting='unsafe', subok=False)
+bad stl: 1.3.6.1.4.1.9328.50.4.0234_seg_label_16.stl
+bad stl: 1.3.6.1.4.1.9328.50.4.0236_seg_label_15.stl
+bad stl: 1.3.6.1.4.1.9328.50.4.0238_seg_label_16.stl
+bad stl: 1.3.6.1.4.1.9328.50.4.0239_seg_label_16.stl
+bad stl: 1.3.6.1.4.1.9328.50.4.0245_seg_label_15.stl
+bad stl: 1.3.6.1.4.1.9328.50.4.0246_seg_label_15.stl
+bad stl: 1.3.6.1.4.1.9328.50.4.0248_seg_label_16.stl
+bad stl: 1.3.6.1.4.1.9328.50.4.0249_seg_label_15.stl
+bad stl: 1.3.6.1.4.1.9328.50.4.0250_seg_label_14.stl
+bad stl: 1.3.6.1.4.1.9328.50.4.0251_seg_label_16.stl
+C:\ProgramData\Anaconda3\lib\site-packages\numpy\core\fromnumeric.py:3441: RuntimeWarning: Mean of empty slice.
+  out=out, **kwargs)
+C:\ProgramData\Anaconda3\lib\site-packages\numpy\core\_methods.py:182: RuntimeWarning: invalid value encountered in true_divide
+  ret, rcount, out=ret, casting='unsafe', subok=False)
+C:\ProgramData\Anaconda3\lib\site-packages\numpy\core\fromnumeric.py:3441: RuntimeWarning: Mean of empty slice.
+  out=out, **kwargs)
+C:\ProgramData\Anaconda3\lib\site-packages\numpy\core\_methods.py:182: RuntimeWarning: invalid value encountered in true_divide
+  ret, rcount, out=ret, casting='unsafe', subok=False)
+bad stl: 1.3.6.1.4.1.9328.50.4.0252_seg_label_16.stl
+C:\ProgramData\Anaconda3\lib\site-packages\numpy\core\fromnumeric.py:3441: RuntimeWarning: Mean of empty slice.
+  out=out, **kwargs)
+C:\ProgramData\Anaconda3\lib\site-packages\numpy\core\_methods.py:182: RuntimeWarning: invalid value encountered in true_divide
+  ret, rcount, out=ret, casting='unsafe', subok=False)
+bad stl: 1.3.6.1.4.1.9328.50.4.0256_seg_label_14.stl
+bad stl: 1.3.6.1.4.1.9328.50.4.0257_seg_label_17.stl
+bad stl: 1.3.6.1.4.1.9328.50.4.0260_seg_label_17.stl
+C:\ProgramData\Anaconda3\lib\site-packages\numpy\core\fromnumeric.py:3441: RuntimeWarning: Mean of empty slice.
+  out=out, **kwargs)
+C:\ProgramData\Anaconda3\lib\site-packages\numpy\core\_methods.py:182: RuntimeWarning: invalid value encountered in true_divide
+  ret, rcount, out=ret, casting='unsafe', subok=False)
+bad stl: 1.3.6.1.4.1.9328.50.4.0261_seg_label_16.stl
+bad stl: 1.3.6.1.4.1.9328.50.4.0262_seg_label_15.stl
+bad stl: 1.3.6.1.4.1.9328.50.4.0264_seg_label_17.stl
+C:\ProgramData\Anaconda3\lib\site-packages\numpy\core\fromnumeric.py:3441: RuntimeWarning: Mean of empty slice.
+  out=out, **kwargs)
+C:\ProgramData\Anaconda3\lib\site-packages\numpy\core\_methods.py:182: RuntimeWarning: invalid value encountered in true_divide
+  ret, rcount, out=ret, casting='unsafe', subok=False)
+bad stl: 1.3.6.1.4.1.9328.50.4.0265_seg_label_16.stl
+C:\ProgramData\Anaconda3\lib\site-packages\numpy\core\fromnumeric.py:3441: RuntimeWarning: Mean of empty slice.
+  out=out, **kwargs)
+C:\ProgramData\Anaconda3\lib\site-packages\numpy\core\_methods.py:182: RuntimeWarning: invalid value encountered in true_divide
+  ret, rcount, out=ret, casting='unsafe', subok=False)
+bad stl: 1.3.6.1.4.1.9328.50.4.0267_seg_label_17.stl
+bad stl: 1.3.6.1.4.1.9328.50.4.0269_seg_label_16.stl
+C:\ProgramData\Anaconda3\lib\site-packages\numpy\core\fromnumeric.py:3441: RuntimeWarning: Mean of empty slice.
+  out=out, **kwargs)
+C:\ProgramData\Anaconda3\lib\site-packages\numpy\core\_methods.py:182: RuntimeWarning: invalid value encountered in true_divide
+  ret, rcount, out=ret, casting='unsafe', subok=False)
+bad stl: 1.3.6.1.4.1.9328.50.4.0270_seg_label_17.stl
+bad stl: 1.3.6.1.4.1.9328.50.4.0275_seg_label_17.stl
+bad stl: 1.3.6.1.4.1.9328.50.4.0277_seg_label_15.stl
+bad stl: 1.3.6.1.4.1.9328.50.4.0280_seg_label_14.stl
+bad stl: 1.3.6.1.4.1.9328.50.4.0282_seg_label_18.stl
+C:\ProgramData\Anaconda3\lib\site-packages\numpy\core\fromnumeric.py:3441: RuntimeWarning: Mean of empty slice.
+  out=out, **kwargs)
+C:\ProgramData\Anaconda3\lib\site-packages\numpy\core\_methods.py:182: RuntimeWarning: invalid value encountered in true_divide
+  ret, rcount, out=ret, casting='unsafe', subok=False)
+bad stl: 1.3.6.1.4.1.9328.50.4.0283_seg_label_16.stl
+C:\ProgramData\Anaconda3\lib\site-packages\numpy\core\fromnumeric.py:3441: RuntimeWarning: Mean of empty slice.
+  out=out, **kwargs)
+C:\ProgramData\Anaconda3\lib\site-packages\numpy\core\_methods.py:182: RuntimeWarning: invalid value encountered in true_divide
+  ret, rcount, out=ret, casting='unsafe', subok=False)
+bad stl: 1.3.6.1.4.1.9328.50.4.0284_seg_label_15.stl
+C:\ProgramData\Anaconda3\lib\site-packages\numpy\core\fromnumeric.py:3441: RuntimeWarning: Mean of empty slice.
+  out=out, **kwargs)
+C:\ProgramData\Anaconda3\lib\site-packages\numpy\core\_methods.py:182: RuntimeWarning: invalid value encountered in true_divide
+  ret, rcount, out=ret, casting='unsafe', subok=False)
+bad stl: 1.3.6.1.4.1.9328.50.4.0286_seg_label_17.stl
+bad stl: 1.3.6.1.4.1.9328.50.4.0287_seg_label_17.stl
+bad stl: 1.3.6.1.4.1.9328.50.4.0288_seg_label_16.stl
+bad stl: 1.3.6.1.4.1.9328.50.4.0290_seg_label_16.stl
+bad stl: 1.3.6.1.4.1.9328.50.4.0292_seg_label_15.stl
+bad stl: 1.3.6.1.4.1.9328.50.4.0293_seg_label_16.stl
+bad stl: 1.3.6.1.4.1.9328.50.4.0294_seg_label_14.stl
+bad stl: 1.3.6.1.4.1.9328.50.4.0301_seg_label_13.stl
+bad stl: 1.3.6.1.4.1.9328.50.4.0306_seg_label_17.stl
+C:\ProgramData\Anaconda3\lib\site-packages\numpy\core\fromnumeric.py:3441: RuntimeWarning: Mean of empty slice.
+  out=out, **kwargs)
+C:\ProgramData\Anaconda3\lib\site-packages\numpy\core\_methods.py:182: RuntimeWarning: invalid value encountered in true_divide
+  ret, rcount, out=ret, casting='unsafe', subok=False)
+C:\ProgramData\Anaconda3\lib\site-packages\numpy\core\fromnumeric.py:3441: RuntimeWarning: Mean of empty slice.
+  out=out, **kwargs)
+C:\ProgramData\Anaconda3\lib\site-packages\numpy\core\_methods.py:182: RuntimeWarning: invalid value encountered in true_divide
+  ret, rcount, out=ret, casting='unsafe', subok=False)
+bad stl: 1.3.6.1.4.1.9328.50.4.0307_seg_label_15.stl
+bad stl: 1.3.6.1.4.1.9328.50.4.0311_seg_label_16.stl
+C:\ProgramData\Anaconda3\lib\site-packages\numpy\core\fromnumeric.py:3441: RuntimeWarning: Mean of empty slice.
+  out=out, **kwargs)
+C:\ProgramData\Anaconda3\lib\site-packages\numpy\core\_methods.py:182: RuntimeWarning: invalid value encountered in true_divide
+  ret, rcount, out=ret, casting='unsafe', subok=False)
+bad stl: 1.3.6.1.4.1.9328.50.4.0313_seg_label_15.stl
+bad stl: 1.3.6.1.4.1.9328.50.4.0314_seg_label_15.stl
+bad stl: 1.3.6.1.4.1.9328.50.4.0317_seg_label_17.stl
+bad stl: 1.3.6.1.4.1.9328.50.4.0319_seg_label_14.stl
+C:\ProgramData\Anaconda3\lib\site-packages\numpy\core\fromnumeric.py:3441: RuntimeWarning: Mean of empty slice.
+  out=out, **kwargs)
+C:\ProgramData\Anaconda3\lib\site-packages\numpy\core\_methods.py:182: RuntimeWarning: invalid value encountered in true_divide
+  ret, rcount, out=ret, casting='unsafe', subok=False)
+bad stl: 1.3.6.1.4.1.9328.50.4.0320_seg_label_17.stl
+bad stl: 1.3.6.1.4.1.9328.50.4.0324_seg_label_16.stl
+bad stl: 1.3.6.1.4.1.9328.50.4.0326_seg_label_16.stl
+bad stl: 1.3.6.1.4.1.9328.50.4.0328_seg_label_15.stl
+C:\ProgramData\Anaconda3\lib\site-packages\numpy\core\fromnumeric.py:3441: RuntimeWarning: Mean of empty slice.
+  out=out, **kwargs)
+C:\ProgramData\Anaconda3\lib\site-packages\numpy\core\_methods.py:182: RuntimeWarning: invalid value encountered in true_divide
+  ret, rcount, out=ret, casting='unsafe', subok=False)
+bad stl: 1.3.6.1.4.1.9328.50.4.0329_seg_label_15.stl
+bad stl: 1.3.6.1.4.1.9328.50.4.0331_seg_label_15.stl
+bad stl: 1.3.6.1.4.1.9328.50.4.0332_seg_label_15.stl
+bad stl: 1.3.6.1.4.1.9328.50.4.0333_seg_label_15.stl
+bad stl: 1.3.6.1.4.1.9328.50.4.0334_seg_label_16.stl
+bad stl: 1.3.6.1.4.1.9328.50.4.0335_seg_label_16.stl
+bad stl: 1.3.6.1.4.1.9328.50.4.0337_seg_label_15.stl
+C:\ProgramData\Anaconda3\lib\site-packages\numpy\core\fromnumeric.py:3441: RuntimeWarning: Mean of empty slice.
+  out=out, **kwargs)
+C:\ProgramData\Anaconda3\lib\site-packages\numpy\core\_methods.py:182: RuntimeWarning: invalid value encountered in true_divide
+  ret, rcount, out=ret, casting='unsafe', subok=False)
+bad stl: 1.3.6.1.4.1.9328.50.4.0338_seg_label_16.stl
+bad stl: 1.3.6.1.4.1.9328.50.4.0339_seg_label_16.stl
+bad stl: 1.3.6.1.4.1.9328.50.4.0340_seg_label_15.stl
+bad stl: 1.3.6.1.4.1.9328.50.4.0341_seg_label_15.stl
+bad stl: 1.3.6.1.4.1.9328.50.4.0342_seg_label_15.stl
+bad stl: 1.3.6.1.4.1.9328.50.4.0344_seg_label_17.stl
+bad stl: 1.3.6.1.4.1.9328.50.4.0345_seg_label_14.stl
+bad stl: 1.3.6.1.4.1.9328.50.4.0347_seg_label_14.stl
+bad stl: 1.3.6.1.4.1.9328.50.4.0349_seg_label_15.stl
+C:\ProgramData\Anaconda3\lib\site-packages\numpy\core\fromnumeric.py:3441: RuntimeWarning: Mean of empty slice.
+  out=out, **kwargs)
+C:\ProgramData\Anaconda3\lib\site-packages\numpy\core\_methods.py:182: RuntimeWarning: invalid value encountered in true_divide
+  ret, rcount, out=ret, casting='unsafe', subok=False)
+C:\ProgramData\Anaconda3\lib\site-packages\numpy\core\fromnumeric.py:3441: RuntimeWarning: Mean of empty slice.
+  out=out, **kwargs)
+C:\ProgramData\Anaconda3\lib\site-packages\numpy\core\_methods.py:182: RuntimeWarning: invalid value encountered in true_divide
+  ret, rcount, out=ret, casting='unsafe', subok=False)
+bad stl: 1.3.6.1.4.1.9328.50.4.0350_seg_label_15.stl
+bad stl: 1.3.6.1.4.1.9328.50.4.0353_seg_label_17.stl
+C:\ProgramData\Anaconda3\lib\site-packages\numpy\core\fromnumeric.py:3441: RuntimeWarning: Mean of empty slice.
+  out=out, **kwargs)
+C:\ProgramData\Anaconda3\lib\site-packages\numpy\core\_methods.py:182: RuntimeWarning: invalid value encountered in true_divide
+  ret, rcount, out=ret, casting='unsafe', subok=False)
+bad stl: 1.3.6.1.4.1.9328.50.4.0355_seg_label_17.stl
+C:\ProgramData\Anaconda3\lib\site-packages\numpy\core\fromnumeric.py:3441: RuntimeWarning: Mean of empty slice.
+  out=out, **kwargs)
+C:\ProgramData\Anaconda3\lib\site-packages\numpy\core\_methods.py:182: RuntimeWarning: invalid value encountered in true_divide
+  ret, rcount, out=ret, casting='unsafe', subok=False)
+C:\ProgramData\Anaconda3\lib\site-packages\numpy\core\fromnumeric.py:3441: RuntimeWarning: Mean of empty slice.
+  out=out, **kwargs)
+C:\ProgramData\Anaconda3\lib\site-packages\numpy\core\_methods.py:182: RuntimeWarning: invalid value encountered in true_divide
+  ret, rcount, out=ret, casting='unsafe', subok=False)
+bad stl: 1.3.6.1.4.1.9328.50.4.0357_seg_label_18.stl
+bad stl: 1.3.6.1.4.1.9328.50.4.0358_seg_label_16.stl
+bad stl: 1.3.6.1.4.1.9328.50.4.0359_seg_label_14.stl
+C:\ProgramData\Anaconda3\lib\site-packages\numpy\core\fromnumeric.py:3441: RuntimeWarning: Mean of empty slice.
+  out=out, **kwargs)
+C:\ProgramData\Anaconda3\lib\site-packages\numpy\core\_methods.py:182: RuntimeWarning: invalid value encountered in true_divide
+  ret, rcount, out=ret, casting='unsafe', subok=False)
+bad stl: 1.3.6.1.4.1.9328.50.4.0363_seg_label_15.stl
+C:\ProgramData\Anaconda3\lib\site-packages\numpy\core\fromnumeric.py:3441: RuntimeWarning: Mean of empty slice.
+  out=out, **kwargs)
+C:\ProgramData\Anaconda3\lib\site-packages\numpy\core\_methods.py:182: RuntimeWarning: invalid value encountered in true_divide
+  ret, rcount, out=ret, casting='unsafe', subok=False)
+bad stl: 1.3.6.1.4.1.9328.50.4.0364_seg_label_16.stl
+C:\ProgramData\Anaconda3\lib\site-packages\numpy\core\fromnumeric.py:3441: RuntimeWarning: Mean of empty slice.
+  out=out, **kwargs)
+C:\ProgramData\Anaconda3\lib\site-packages\numpy\core\_methods.py:182: RuntimeWarning: invalid value encountered in true_divide
+  ret, rcount, out=ret, casting='unsafe', subok=False)
+bad stl: 1.3.6.1.4.1.9328.50.4.0368_seg_label_16.stl
+bad stl: 1.3.6.1.4.1.9328.50.4.0369_seg_label_16.stl
+bad stl: 1.3.6.1.4.1.9328.50.4.0370_seg_label_16.stl
+C:\ProgramData\Anaconda3\lib\site-packages\numpy\core\fromnumeric.py:3441: RuntimeWarning: Mean of empty slice.
+  out=out, **kwargs)
+C:\ProgramData\Anaconda3\lib\site-packages\numpy\core\_methods.py:182: RuntimeWarning: invalid value encountered in true_divide
+  ret, rcount, out=ret, casting='unsafe', subok=False)
+bad stl: 1.3.6.1.4.1.9328.50.4.0372_seg_label_16.stl
+bad stl: 1.3.6.1.4.1.9328.50.4.0373_seg_label_16.stl
+bad stl: 1.3.6.1.4.1.9328.50.4.0375_seg_label_14.stl
+bad stl: 1.3.6.1.4.1.9328.50.4.0377_seg_label_16.stl
+bad stl: 1.3.6.1.4.1.9328.50.4.0378_seg_label_15.stl
+bad stl: 1.3.6.1.4.1.9328.50.4.0379_seg_label_16.stl
+bad stl: 1.3.6.1.4.1.9328.50.4.0380_seg_label_17.stl
+bad stl: 1.3.6.1.4.1.9328.50.4.0381_seg_label_16.stl
+bad stl: 1.3.6.1.4.1.9328.50.4.0383_seg_label_18.stl
+bad stl: 1.3.6.1.4.1.9328.50.4.0386_seg_label_15.stl
+C:\ProgramData\Anaconda3\lib\site-packages\numpy\core\fromnumeric.py:3441: RuntimeWarning: Mean of empty slice.
+  out=out, **kwargs)
+C:\ProgramData\Anaconda3\lib\site-packages\numpy\core\_methods.py:182: RuntimeWarning: invalid value encountered in true_divide
+  ret, rcount, out=ret, casting='unsafe', subok=False)
+bad stl: 1.3.6.1.4.1.9328.50.4.0387_seg_label_16.stl
+C:\ProgramData\Anaconda3\lib\site-packages\numpy\core\fromnumeric.py:3441: RuntimeWarning: Mean of empty slice.
+  out=out, **kwargs)
+C:\ProgramData\Anaconda3\lib\site-packages\numpy\core\_methods.py:182: RuntimeWarning: invalid value encountered in true_divide
+  ret, rcount, out=ret, casting='unsafe', subok=False)
+bad stl: 1.3.6.1.4.1.9328.50.4.0388_seg_label_16.stl
+bad stl: 1.3.6.1.4.1.9328.50.4.0390_seg_label_16.stl
+bad stl: 1.3.6.1.4.1.9328.50.4.0391_seg_label_14.stl
+C:\ProgramData\Anaconda3\lib\site-packages\numpy\core\fromnumeric.py:3441: RuntimeWarning: Mean of empty slice.
+  out=out, **kwargs)
+C:\ProgramData\Anaconda3\lib\site-packages\numpy\core\_methods.py:182: RuntimeWarning: invalid value encountered in true_divide
+  ret, rcount, out=ret, casting='unsafe', subok=False)
+bad stl: 1.3.6.1.4.1.9328.50.4.0392_seg_label_15.stl
+bad stl: 1.3.6.1.4.1.9328.50.4.0393_seg_label_17.stl
+bad stl: 1.3.6.1.4.1.9328.50.4.0396_seg_label_14.stl
+bad stl: 1.3.6.1.4.1.9328.50.4.0398_seg_label_17.stl
+bad stl: 1.3.6.1.4.1.9328.50.4.0399_seg_label_14.stl
+C:\ProgramData\Anaconda3\lib\site-packages\numpy\core\fromnumeric.py:3441: RuntimeWarning: Mean of empty slice.
+  out=out, **kwargs)
+C:\ProgramData\Anaconda3\lib\site-packages\numpy\core\_methods.py:182: RuntimeWarning: invalid value encountered in true_divide
+  ret, rcount, out=ret, casting='unsafe', subok=False)
+bad stl: 1.3.6.1.4.1.9328.50.4.0400_seg_label_14.stl
+bad stl: 1.3.6.1.4.1.9328.50.4.0401_seg_label_16.stl
+bad stl: 1.3.6.1.4.1.9328.50.4.0402_seg_label_16.stl
+bad stl: 1.3.6.1.4.1.9328.50.4.0403_seg_label_17.stl
+bad stl: 1.3.6.1.4.1.9328.50.4.0405_seg_label_15.stl
+bad stl: 1.3.6.1.4.1.9328.50.4.0407_seg_label_13.stl
+bad stl: 1.3.6.1.4.1.9328.50.4.0408_seg_label_18.stl
+bad stl: 1.3.6.1.4.1.9328.50.4.0409_seg_label_16.stl
+bad stl: 1.3.6.1.4.1.9328.50.4.0410_seg_label_17.stl
+bad stl: 1.3.6.1.4.1.9328.50.4.0412_seg_label_15.stl
+bad stl: 1.3.6.1.4.1.9328.50.4.0414_seg_label_17.stl
+bad stl: 1.3.6.1.4.1.9328.50.4.0416_seg_label_16.stl
+C:\ProgramData\Anaconda3\lib\site-packages\numpy\core\fromnumeric.py:3441: RuntimeWarning: Mean of empty slice.
+  out=out, **kwargs)
+C:\ProgramData\Anaconda3\lib\site-packages\numpy\core\_methods.py:182: RuntimeWarning: invalid value encountered in true_divide
+  ret, rcount, out=ret, casting='unsafe', subok=False)
+bad stl: 1.3.6.1.4.1.9328.50.4.0420_seg_label_14.stl
+bad stl: 1.3.6.1.4.1.9328.50.4.0422_seg_label_17.stl
+bad stl: 1.3.6.1.4.1.9328.50.4.0423_seg_label_16.stl
+bad stl: 1.3.6.1.4.1.9328.50.4.0424_seg_label_17.stl
+bad stl: 1.3.6.1.4.1.9328.50.4.0428_seg_label_16.stl
+bad stl: 1.3.6.1.4.1.9328.50.4.0430_seg_label_17.stl
+bad stl: 1.3.6.1.4.1.9328.50.4.0431_seg_label_13.stl
+C:\ProgramData\Anaconda3\lib\site-packages\numpy\core\fromnumeric.py:3441: RuntimeWarning: Mean of empty slice.
+  out=out, **kwargs)
+C:\ProgramData\Anaconda3\lib\site-packages\numpy\core\_methods.py:182: RuntimeWarning: invalid value encountered in true_divide
+  ret, rcount, out=ret, casting='unsafe', subok=False)
+bad stl: 1.3.6.1.4.1.9328.50.4.0432_seg_label_16.stl
+bad stl: 1.3.6.1.4.1.9328.50.4.0433_seg_label_18.stl
+bad stl: 1.3.6.1.4.1.9328.50.4.0436_seg_label_14.stl
+bad stl: 1.3.6.1.4.1.9328.50.4.0437_seg_label_16.stl
+bad stl: 1.3.6.1.4.1.9328.50.4.0438_seg_label_16.stl
+bad stl: 1.3.6.1.4.1.9328.50.4.0443_seg_label_16.stl
+bad stl: 1.3.6.1.4.1.9328.50.4.0444_seg_label_18.stl
+bad stl: 1.3.6.1.4.1.9328.50.4.0445_seg_label_16.stl
+bad stl: 1.3.6.1.4.1.9328.50.4.0448_seg_label_17.stl
+C:\ProgramData\Anaconda3\lib\site-packages\numpy\core\fromnumeric.py:3441: RuntimeWarning: Mean of empty slice.
+  out=out, **kwargs)
+C:\ProgramData\Anaconda3\lib\site-packages\numpy\core\_methods.py:182: RuntimeWarning: invalid value encountered in true_divide
+  ret, rcount, out=ret, casting='unsafe', subok=False)
+bad stl: 1.3.6.1.4.1.9328.50.4.0450_seg_label_16.stl
+bad stl: 1.3.6.1.4.1.9328.50.4.0451_seg_label_16.stl
+bad stl: 1.3.6.1.4.1.9328.50.4.0454_seg_label_16.stl
+bad stl: 1.3.6.1.4.1.9328.50.4.0455_seg_label_17.stl
+bad stl: 1.3.6.1.4.1.9328.50.4.0457_seg_label_16.stl
+C:\ProgramData\Anaconda3\lib\site-packages\numpy\core\fromnumeric.py:3441: RuntimeWarning: Mean of empty slice.
+  out=out, **kwargs)
+C:\ProgramData\Anaconda3\lib\site-packages\numpy\core\_methods.py:182: RuntimeWarning: invalid value encountered in true_divide
+  ret, rcount, out=ret, casting='unsafe', subok=False)
+bad stl: 1.3.6.1.4.1.9328.50.4.0458_seg_label_16.stl
+bad stl: 1.3.6.1.4.1.9328.50.4.0460_seg_label_12.stl
+bad stl: 1.3.6.1.4.1.9328.50.4.0461_seg_label_14.stl
+bad stl: 1.3.6.1.4.1.9328.50.4.0462_seg_label_15.stl
+bad stl: 1.3.6.1.4.1.9328.50.4.0463_seg_label_15.stl
+C:\ProgramData\Anaconda3\lib\site-packages\numpy\core\fromnumeric.py:3441: RuntimeWarning: Mean of empty slice.
+  out=out, **kwargs)
+C:\ProgramData\Anaconda3\lib\site-packages\numpy\core\_methods.py:182: RuntimeWarning: invalid value encountered in true_divide
+  ret, rcount, out=ret, casting='unsafe', subok=False)
+bad stl: 1.3.6.1.4.1.9328.50.4.0470_seg_label_12.stl
+C:\ProgramData\Anaconda3\lib\site-packages\numpy\core\fromnumeric.py:3441: RuntimeWarning: Mean of empty slice.
+  out=out, **kwargs)
+C:\ProgramData\Anaconda3\lib\site-packages\numpy\core\_methods.py:182: RuntimeWarning: invalid value encountered in true_divide
+  ret, rcount, out=ret, casting='unsafe', subok=False)
+C:\ProgramData\Anaconda3\lib\site-packages\numpy\core\fromnumeric.py:3441: RuntimeWarning: Mean of empty slice.
+  out=out, **kwargs)
+C:\ProgramData\Anaconda3\lib\site-packages\numpy\core\_methods.py:182: RuntimeWarning: invalid value encountered in true_divide
+  ret, rcount, out=ret, casting='unsafe', subok=False)
+bad stl: 1.3.6.1.4.1.9328.50.4.0473_seg_label_13.stl
+bad stl: 1.3.6.1.4.1.9328.50.4.0474_seg_label_16.stl
+bad stl: 1.3.6.1.4.1.9328.50.4.0475_seg_label_14.stl
+bad stl: 1.3.6.1.4.1.9328.50.4.0476_seg_label_14.stl
+bad stl: 1.3.6.1.4.1.9328.50.4.0479_seg_label_15.stl
+bad stl: 1.3.6.1.4.1.9328.50.4.0480_seg_label_15.stl
+bad stl: 1.3.6.1.4.1.9328.50.4.0483_seg_label_18.stl
+bad stl: 1.3.6.1.4.1.9328.50.4.0484_seg_label_16.stl
+C:\ProgramData\Anaconda3\lib\site-packages\numpy\core\fromnumeric.py:3441: RuntimeWarning: Mean of empty slice.
+  out=out, **kwargs)
+C:\ProgramData\Anaconda3\lib\site-packages\numpy\core\_methods.py:182: RuntimeWarning: invalid value encountered in true_divide
+  ret, rcount, out=ret, casting='unsafe', subok=False)
+bad stl: 1.3.6.1.4.1.9328.50.4.0485_seg_label_16.stl
+bad stl: 1.3.6.1.4.1.9328.50.4.0486_seg_label_15.stl
+bad stl: 1.3.6.1.4.1.9328.50.4.0487_seg_label_16.stl
+bad stl: 1.3.6.1.4.1.9328.50.4.0489_seg_label_15.stl
+C:\ProgramData\Anaconda3\lib\site-packages\numpy\core\fromnumeric.py:3441: RuntimeWarning: Mean of empty slice.
+  out=out, **kwargs)
+C:\ProgramData\Anaconda3\lib\site-packages\numpy\core\_methods.py:182: RuntimeWarning: invalid value encountered in true_divide
+  ret, rcount, out=ret, casting='unsafe', subok=False)
+bad stl: 1.3.6.1.4.1.9328.50.4.0492_seg_label_16.stl
+bad stl: 1.3.6.1.4.1.9328.50.4.0493_seg_label_14.stl
+bad stl: 1.3.6.1.4.1.9328.50.4.0494_seg_label_15.stl
+bad stl: 1.3.6.1.4.1.9328.50.4.0495_seg_label_17.stl
+bad stl: 1.3.6.1.4.1.9328.50.4.0497_seg_label_15.stl
+bad stl: 1.3.6.1.4.1.9328.50.4.0498_seg_label_18.stl
+C:\ProgramData\Anaconda3\lib\site-packages\numpy\core\fromnumeric.py:3441: RuntimeWarning: Mean of empty slice.
+  out=out, **kwargs)
+C:\ProgramData\Anaconda3\lib\site-packages\numpy\core\_methods.py:182: RuntimeWarning: invalid value encountered in true_divide
+  ret, rcount, out=ret, casting='unsafe', subok=False)
+bad stl: 1.3.6.1.4.1.9328.50.4.0499_seg_label_15.stl
+bad stl: 1.3.6.1.4.1.9328.50.4.0502_seg_label_16.stl
+bad stl: 1.3.6.1.4.1.9328.50.4.0504_seg_label_16.stl
+C:\ProgramData\Anaconda3\lib\site-packages\numpy\core\fromnumeric.py:3441: RuntimeWarning: Mean of empty slice.
+  out=out, **kwargs)
+C:\ProgramData\Anaconda3\lib\site-packages\numpy\core\_methods.py:182: RuntimeWarning: invalid value encountered in true_divide
+  ret, rcount, out=ret, casting='unsafe', subok=False)
+bad stl: 1.3.6.1.4.1.9328.50.4.0505_seg_label_16.stl
+bad stl: 1.3.6.1.4.1.9328.50.4.0507_seg_label_15.stl
+bad stl: 1.3.6.1.4.1.9328.50.4.0508_seg_label_16.stl
+bad stl: 1.3.6.1.4.1.9328.50.4.0509_seg_label_16.stl
+C:\ProgramData\Anaconda3\lib\site-packages\numpy\core\fromnumeric.py:3441: RuntimeWarning: Mean of empty slice.
+  out=out, **kwargs)
+C:\ProgramData\Anaconda3\lib\site-packages\numpy\core\_methods.py:182: RuntimeWarning: invalid value encountered in true_divide
+  ret, rcount, out=ret, casting='unsafe', subok=False)
+bad stl: 1.3.6.1.4.1.9328.50.4.0511_seg_label_16.stl
+bad stl: 1.3.6.1.4.1.9328.50.4.0513_seg_label_17.stl
+bad stl: 1.3.6.1.4.1.9328.50.4.0514_seg_label_16.stl
+bad stl: 1.3.6.1.4.1.9328.50.4.0515_seg_label_15.stl
+bad stl: 1.3.6.1.4.1.9328.50.4.0516_seg_label_16.stl
+bad stl: 1.3.6.1.4.1.9328.50.4.0517_seg_label_16.stl
+bad stl: 1.3.6.1.4.1.9328.50.4.0519_seg_label_16.stl
+bad stl: 1.3.6.1.4.1.9328.50.4.0522_seg_label_17.stl
+bad stl: 1.3.6.1.4.1.9328.50.4.0523_seg_label_16.stl
+bad stl: 1.3.6.1.4.1.9328.50.4.0525_seg_label_17.stl
+bad stl: 1.3.6.1.4.1.9328.50.4.0526_seg_label_18.stl
+bad stl: 1.3.6.1.4.1.9328.50.4.0527_seg_label_16.stl
+bad stl: 1.3.6.1.4.1.9328.50.4.0529_seg_label_15.stl
+bad stl: 1.3.6.1.4.1.9328.50.4.0531_seg_label_18.stl
+C:\ProgramData\Anaconda3\lib\site-packages\numpy\core\fromnumeric.py:3441: RuntimeWarning: Mean of empty slice.
+  out=out, **kwargs)
+C:\ProgramData\Anaconda3\lib\site-packages\numpy\core\_methods.py:182: RuntimeWarning: invalid value encountered in true_divide
+  ret, rcount, out=ret, casting='unsafe', subok=False)
+bad stl: 1.3.6.1.4.1.9328.50.4.0533_seg_label_14.stl
+bad stl: 1.3.6.1.4.1.9328.50.4.0535_seg_label_16.stl
+bad stl: 1.3.6.1.4.1.9328.50.4.0539_seg_label_17.stl
+C:\ProgramData\Anaconda3\lib\site-packages\numpy\core\fromnumeric.py:3441: RuntimeWarning: Mean of empty slice.
+  out=out, **kwargs)
+C:\ProgramData\Anaconda3\lib\site-packages\numpy\core\_methods.py:182: RuntimeWarning: invalid value encountered in true_divide
+  ret, rcount, out=ret, casting='unsafe', subok=False)
+bad stl: 1.3.6.1.4.1.9328.50.4.0542_seg_label_14.stl
+bad stl: 1.3.6.1.4.1.9328.50.4.0544_seg_label_16.stl
+bad stl: 1.3.6.1.4.1.9328.50.4.0545_seg_label_19.stl
+bad stl: 1.3.6.1.4.1.9328.50.4.0547_seg_label_15.stl
+bad stl: 1.3.6.1.4.1.9328.50.4.0548_seg_label_15.stl
+bad stl: 1.3.6.1.4.1.9328.50.4.0549_seg_label_14.stl
+bad stl: 1.3.6.1.4.1.9328.50.4.0550_seg_label_15.stl
+bad stl: 1.3.6.1.4.1.9328.50.4.0551_seg_label_17.stl
+bad stl: 1.3.6.1.4.1.9328.50.4.0552_seg_label_15.stl
+bad stl: 1.3.6.1.4.1.9328.50.4.0554_seg_label_16.stl
+bad stl: 1.3.6.1.4.1.9328.50.4.0560_seg_label_17.stl
+bad stl: 1.3.6.1.4.1.9328.50.4.0563_seg_label_16.stl
+bad stl: 1.3.6.1.4.1.9328.50.4.0565_seg_label_16.stl
+bad stl: 1.3.6.1.4.1.9328.50.4.0566_seg_label_15.stl
+C:\ProgramData\Anaconda3\lib\site-packages\numpy\core\fromnumeric.py:3441: RuntimeWarning: Mean of empty slice.
+  out=out, **kwargs)
+C:\ProgramData\Anaconda3\lib\site-packages\numpy\core\_methods.py:182: RuntimeWarning: invalid value encountered in true_divide
+  ret, rcount, out=ret, casting='unsafe', subok=False)
+bad stl: 1.3.6.1.4.1.9328.50.4.0567_seg_label_17.stl
+bad stl: 1.3.6.1.4.1.9328.50.4.0569_seg_label_15.stl
+bad stl: 1.3.6.1.4.1.9328.50.4.0571_seg_label_17.stl
+bad stl: 1.3.6.1.4.1.9328.50.4.0572_seg_label_15.stl
+bad stl: 1.3.6.1.4.1.9328.50.4.0573_seg_label_16.stl
+bad stl: 1.3.6.1.4.1.9328.50.4.0577_seg_label_14.stl
+C:\ProgramData\Anaconda3\lib\site-packages\numpy\core\fromnumeric.py:3441: RuntimeWarning: Mean of empty slice.
+  out=out, **kwargs)
+C:\ProgramData\Anaconda3\lib\site-packages\numpy\core\_methods.py:182: RuntimeWarning: invalid value encountered in true_divide
+  ret, rcount, out=ret, casting='unsafe', subok=False)
+bad stl: 1.3.6.1.4.1.9328.50.4.0580_seg_label_16.stl
+bad stl: 1.3.6.1.4.1.9328.50.4.0583_seg_label_15.stl
+bad stl: 1.3.6.1.4.1.9328.50.4.0586_seg_label_12.stl
+bad stl: 1.3.6.1.4.1.9328.50.4.0587_seg_label_18.stl
+bad stl: 1.3.6.1.4.1.9328.50.4.0588_seg_label_16.stl
+bad stl: 1.3.6.1.4.1.9328.50.4.0590_seg_label_15.stl
+bad stl: 1.3.6.1.4.1.9328.50.4.0591_seg_label_16.stl
+bad stl: 1.3.6.1.4.1.9328.50.4.0593_seg_label_16.stl
+bad stl: 1.3.6.1.4.1.9328.50.4.0598_seg_label_18.stl
+bad stl: 1.3.6.1.4.1.9328.50.4.0599_seg_label_17.stl
+bad stl: 1.3.6.1.4.1.9328.50.4.0600_seg_label_13.stl
+C:\ProgramData\Anaconda3\lib\site-packages\numpy\core\fromnumeric.py:3441: RuntimeWarning: Mean of empty slice.
+  out=out, **kwargs)
+C:\ProgramData\Anaconda3\lib\site-packages\numpy\core\_methods.py:182: RuntimeWarning: invalid value encountered in true_divide
+  ret, rcount, out=ret, casting='unsafe', subok=False)
+bad stl: 1.3.6.1.4.1.9328.50.4.0601_seg_label_15.stl
+C:\ProgramData\Anaconda3\lib\site-packages\numpy\core\fromnumeric.py:3441: RuntimeWarning: Mean of empty slice.
+  out=out, **kwargs)
+C:\ProgramData\Anaconda3\lib\site-packages\numpy\core\_methods.py:182: RuntimeWarning: invalid value encountered in true_divide
+  ret, rcount, out=ret, casting='unsafe', subok=False)
+bad stl: 1.3.6.1.4.1.9328.50.4.0602_seg_label_16.stl
+C:\ProgramData\Anaconda3\lib\site-packages\numpy\core\fromnumeric.py:3441: RuntimeWarning: Mean of empty slice.
+  out=out, **kwargs)
+C:\ProgramData\Anaconda3\lib\site-packages\numpy\core\_methods.py:182: RuntimeWarning: invalid value encountered in true_divide
+  ret, rcount, out=ret, casting='unsafe', subok=False)
+bad stl: 1.3.6.1.4.1.9328.50.4.0606_seg_label_17.stl
+bad stl: 1.3.6.1.4.1.9328.50.4.0607_seg_label_16.stl
+bad stl: 1.3.6.1.4.1.9328.50.4.0608_seg_label_17.stl
+bad stl: 1.3.6.1.4.1.9328.50.4.0610_seg_label_15.stl
+bad stl: 1.3.6.1.4.1.9328.50.4.0612_seg_label_16.stl
+bad stl: 1.3.6.1.4.1.9328.50.4.0613_seg_label_15.stl
+bad stl: 1.3.6.1.4.1.9328.50.4.0614_seg_label_15.stl
+bad stl: 1.3.6.1.4.1.9328.50.4.0616_seg_label_15.stl
+bad stl: 1.3.6.1.4.1.9328.50.4.0619_seg_label_17.stl
+C:\ProgramData\Anaconda3\lib\site-packages\numpy\core\fromnumeric.py:3441: RuntimeWarning: Mean of empty slice.
+  out=out, **kwargs)
+C:\ProgramData\Anaconda3\lib\site-packages\numpy\core\_methods.py:182: RuntimeWarning: invalid value encountered in true_divide
+  ret, rcount, out=ret, casting='unsafe', subok=False)
+bad stl: 1.3.6.1.4.1.9328.50.4.0620_seg_label_17.stl
+bad stl: 1.3.6.1.4.1.9328.50.4.0623_seg_label_15.stl
+bad stl: 1.3.6.1.4.1.9328.50.4.0625_seg_label_15.stl
+C:\ProgramData\Anaconda3\lib\site-packages\numpy\core\fromnumeric.py:3441: RuntimeWarning: Mean of empty slice.
+  out=out, **kwargs)
+C:\ProgramData\Anaconda3\lib\site-packages\numpy\core\_methods.py:182: RuntimeWarning: invalid value encountered in true_divide
+  ret, rcount, out=ret, casting='unsafe', subok=False)
+bad stl: 1.3.6.1.4.1.9328.50.4.0631_seg_label_15.stl
+bad stl: 1.3.6.1.4.1.9328.50.4.0632_seg_label_14.stl
+bad stl: 1.3.6.1.4.1.9328.50.4.0635_seg_label_14.stl
+bad stl: 1.3.6.1.4.1.9328.50.4.0637_seg_label_16.stl
+C:\ProgramData\Anaconda3\lib\site-packages\numpy\core\fromnumeric.py:3441: RuntimeWarning: Mean of empty slice.
+  out=out, **kwargs)
+C:\ProgramData\Anaconda3\lib\site-packages\numpy\core\_methods.py:182: RuntimeWarning: invalid value encountered in true_divide
+  ret, rcount, out=ret, casting='unsafe', subok=False)
+C:\ProgramData\Anaconda3\lib\site-packages\numpy\core\fromnumeric.py:3441: RuntimeWarning: Mean of empty slice.
+  out=out, **kwargs)
+C:\ProgramData\Anaconda3\lib\site-packages\numpy\core\_methods.py:182: RuntimeWarning: invalid value encountered in true_divide
+  ret, rcount, out=ret, casting='unsafe', subok=False)
+bad stl: 1.3.6.1.4.1.9328.50.4.0638_seg_label_16.stl
+bad stl: 1.3.6.1.4.1.9328.50.4.0639_seg_label_16.stl
+C:\ProgramData\Anaconda3\lib\site-packages\numpy\core\fromnumeric.py:3441: RuntimeWarning: Mean of empty slice.
+  out=out, **kwargs)
+C:\ProgramData\Anaconda3\lib\site-packages\numpy\core\_methods.py:182: RuntimeWarning: invalid value encountered in true_divide
+  ret, rcount, out=ret, casting='unsafe', subok=False)
+bad stl: 1.3.6.1.4.1.9328.50.4.0644_seg_label_16.stl
+bad stl: 1.3.6.1.4.1.9328.50.4.0645_seg_label_17.stl
+bad stl: 1.3.6.1.4.1.9328.50.4.0646_seg_label_15.stl
+bad stl: 1.3.6.1.4.1.9328.50.4.0647_seg_label_14.stl
+bad stl: 1.3.6.1.4.1.9328.50.4.0649_seg_label_18.stl
+bad stl: 1.3.6.1.4.1.9328.50.4.0651_seg_label_17.stl
+bad stl: 1.3.6.1.4.1.9328.50.4.0652_seg_label_17.stl
+bad stl: 1.3.6.1.4.1.9328.50.4.0655_seg_label_16.stl
+C:\ProgramData\Anaconda3\lib\site-packages\numpy\core\fromnumeric.py:3441: RuntimeWarning: Mean of empty slice.
+  out=out, **kwargs)
+C:\ProgramData\Anaconda3\lib\site-packages\numpy\core\_methods.py:182: RuntimeWarning: invalid value encountered in true_divide
+  ret, rcount, out=ret, casting='unsafe', subok=False)
+bad stl: 1.3.6.1.4.1.9328.50.4.0656_seg_label_15.stl
+C:\ProgramData\Anaconda3\lib\site-packages\numpy\core\fromnumeric.py:3441: RuntimeWarning: Mean of empty slice.
+  out=out, **kwargs)
+C:\ProgramData\Anaconda3\lib\site-packages\numpy\core\_methods.py:182: RuntimeWarning: invalid value encountered in true_divide
+  ret, rcount, out=ret, casting='unsafe', subok=False)
+bad stl: 1.3.6.1.4.1.9328.50.4.0658_seg_label_16.stl
+bad stl: 1.3.6.1.4.1.9328.50.4.0659_seg_label_16.stl
+bad stl: 1.3.6.1.4.1.9328.50.4.0660_seg_label_17.stl
+bad stl: 1.3.6.1.4.1.9328.50.4.0661_seg_label_17.stl
+bad stl: 1.3.6.1.4.1.9328.50.4.0662_seg_label_15.stl
+bad stl: 1.3.6.1.4.1.9328.50.4.0663_seg_label_16.stl
+bad stl: 1.3.6.1.4.1.9328.50.4.0664_seg_label_14.stl
+C:\ProgramData\Anaconda3\lib\site-packages\numpy\core\fromnumeric.py:3441: RuntimeWarning: Mean of empty slice.
+  out=out, **kwargs)
+C:\ProgramData\Anaconda3\lib\site-packages\numpy\core\_methods.py:182: RuntimeWarning: invalid value encountered in true_divide
+  ret, rcount, out=ret, casting='unsafe', subok=False)
+C:\ProgramData\Anaconda3\lib\site-packages\numpy\core\fromnumeric.py:3441: RuntimeWarning: Mean of empty slice.
+  out=out, **kwargs)
+C:\ProgramData\Anaconda3\lib\site-packages\numpy\core\_methods.py:182: RuntimeWarning: invalid value encountered in true_divide
+  ret, rcount, out=ret, casting='unsafe', subok=False)
+bad stl: 1.3.6.1.4.1.9328.50.4.0665_seg_label_17.stl
+bad stl: 1.3.6.1.4.1.9328.50.4.0668_seg_label_17.stl
+bad stl: 1.3.6.1.4.1.9328.50.4.0669_seg_label_15.stl
+C:\ProgramData\Anaconda3\lib\site-packages\numpy\core\fromnumeric.py:3441: RuntimeWarning: Mean of empty slice.
+  out=out, **kwargs)
+C:\ProgramData\Anaconda3\lib\site-packages\numpy\core\_methods.py:182: RuntimeWarning: invalid value encountered in true_divide
+  ret, rcount, out=ret, casting='unsafe', subok=False)
+bad stl: 1.3.6.1.4.1.9328.50.4.0670_seg_label_14.stl
+bad stl: 1.3.6.1.4.1.9328.50.4.0672_seg_label_17.stl
+bad stl: 1.3.6.1.4.1.9328.50.4.0673_seg_label_16.stl
+C:\ProgramData\Anaconda3\lib\site-packages\numpy\core\fromnumeric.py:3441: RuntimeWarning: Mean of empty slice.
+  out=out, **kwargs)
+C:\ProgramData\Anaconda3\lib\site-packages\numpy\core\_methods.py:182: RuntimeWarning: invalid value encountered in true_divide
+  ret, rcount, out=ret, casting='unsafe', subok=False)
+bad stl: 1.3.6.1.4.1.9328.50.4.0675_seg_label_16.stl
+bad stl: 1.3.6.1.4.1.9328.50.4.0676_seg_label_17.stl
+bad stl: 1.3.6.1.4.1.9328.50.4.0678_seg_label_15.stl
+bad stl: 1.3.6.1.4.1.9328.50.4.0679_seg_label_16.stl
+bad stl: 1.3.6.1.4.1.9328.50.4.0680_seg_label_17.stl
+bad stl: 1.3.6.1.4.1.9328.50.4.0681_seg_label_16.stl
+C:\ProgramData\Anaconda3\lib\site-packages\numpy\core\fromnumeric.py:3441: RuntimeWarning: Mean of empty slice.
+  out=out, **kwargs)
+C:\ProgramData\Anaconda3\lib\site-packages\numpy\core\_methods.py:182: RuntimeWarning: invalid value encountered in true_divide
+  ret, rcount, out=ret, casting='unsafe', subok=False)
+bad stl: 1.3.6.1.4.1.9328.50.4.0683_seg_label_15.stl
+bad stl: 1.3.6.1.4.1.9328.50.4.0684_seg_label_16.stl
+bad stl: 1.3.6.1.4.1.9328.50.4.0685_seg_label_17.stl
+C:\ProgramData\Anaconda3\lib\site-packages\numpy\core\fromnumeric.py:3441: RuntimeWarning: Mean of empty slice.
+  out=out, **kwargs)
+C:\ProgramData\Anaconda3\lib\site-packages\numpy\core\_methods.py:182: RuntimeWarning: invalid value encountered in true_divide
+  ret, rcount, out=ret, casting='unsafe', subok=False)
+bad stl: 1.3.6.1.4.1.9328.50.4.0687_seg_label_13.stl
+bad stl: 1.3.6.1.4.1.9328.50.4.0690_seg_label_16.stl
+bad stl: 1.3.6.1.4.1.9328.50.4.0691_seg_label_14.stl
+C:\ProgramData\Anaconda3\lib\site-packages\numpy\core\fromnumeric.py:3441: RuntimeWarning: Mean of empty slice.
+  out=out, **kwargs)
+C:\ProgramData\Anaconda3\lib\site-packages\numpy\core\_methods.py:182: RuntimeWarning: invalid value encountered in true_divide
+  ret, rcount, out=ret, casting='unsafe', subok=False)
+bad stl: 1.3.6.1.4.1.9328.50.4.0694_seg_label_16.stl
+bad stl: 1.3.6.1.4.1.9328.50.4.0696_seg_label_15.stl
+C:\ProgramData\Anaconda3\lib\site-packages\numpy\core\fromnumeric.py:3441: RuntimeWarning: Mean of empty slice.
+  out=out, **kwargs)
+C:\ProgramData\Anaconda3\lib\site-packages\numpy\core\_methods.py:182: RuntimeWarning: invalid value encountered in true_divide
+  ret, rcount, out=ret, casting='unsafe', subok=False)
+bad stl: 1.3.6.1.4.1.9328.50.4.0697_seg_label_15.stl
+bad stl: 1.3.6.1.4.1.9328.50.4.0702_seg_label_17.stl
+bad stl: 1.3.6.1.4.1.9328.50.4.0705_seg_label_16.stl
+bad stl: 1.3.6.1.4.1.9328.50.4.0706_seg_label_16.stl
+bad stl: 1.3.6.1.4.1.9328.50.4.0707_seg_label_16.stl
+bad stl: 1.3.6.1.4.1.9328.50.4.0708_seg_label_17.stl
+bad stl: 1.3.6.1.4.1.9328.50.4.0709_seg_label_15.stl
+C:\ProgramData\Anaconda3\lib\site-packages\numpy\core\fromnumeric.py:3441: RuntimeWarning: Mean of empty slice.
+  out=out, **kwargs)
+C:\ProgramData\Anaconda3\lib\site-packages\numpy\core\_methods.py:182: RuntimeWarning: invalid value encountered in true_divide
+  ret, rcount, out=ret, casting='unsafe', subok=False)
+bad stl: 1.3.6.1.4.1.9328.50.4.0710_seg_label_15.stl
+bad stl: 1.3.6.1.4.1.9328.50.4.0712_seg_label_19.stl
+bad stl: 1.3.6.1.4.1.9328.50.4.0713_seg_label_16.stl
+bad stl: 1.3.6.1.4.1.9328.50.4.0715_seg_label_16.stl
+bad stl: 1.3.6.1.4.1.9328.50.4.0721_seg_label_16.stl
+C:\ProgramData\Anaconda3\lib\site-packages\numpy\core\fromnumeric.py:3441: RuntimeWarning: Mean of empty slice.
+  out=out, **kwargs)
+C:\ProgramData\Anaconda3\lib\site-packages\numpy\core\_methods.py:182: RuntimeWarning: invalid value encountered in true_divide
+  ret, rcount, out=ret, casting='unsafe', subok=False)
+bad stl: 1.3.6.1.4.1.9328.50.4.0722_seg_label_16.stl
+bad stl: 1.3.6.1.4.1.9328.50.4.0723_seg_label_16.stl
+bad stl: 1.3.6.1.4.1.9328.50.4.0724_seg_label_15.stl
+bad stl: 1.3.6.1.4.1.9328.50.4.0727_seg_label_14.stl
+bad stl: 1.3.6.1.4.1.9328.50.4.0728_seg_label_15.stl
+bad stl: 1.3.6.1.4.1.9328.50.4.0729_seg_label_15.stl
+bad stl: 1.3.6.1.4.1.9328.50.4.0731_seg_label_15.stl
+bad stl: 1.3.6.1.4.1.9328.50.4.0732_seg_label_17.stl
+bad stl: 1.3.6.1.4.1.9328.50.4.0733_seg_label_16.stl
+bad stl: 1.3.6.1.4.1.9328.50.4.0734_seg_label_16.stl
+bad stl: 1.3.6.1.4.1.9328.50.4.0735_seg_label_16.stl
+bad stl: 1.3.6.1.4.1.9328.50.4.0736_seg_label_17.stl
+bad stl: 1.3.6.1.4.1.9328.50.4.0737_seg_label_15.stl
+bad stl: 1.3.6.1.4.1.9328.50.4.0738_seg_label_15.stl
+bad stl: 1.3.6.1.4.1.9328.50.4.0739_seg_label_16.stl
+bad stl: 1.3.6.1.4.1.9328.50.4.0740_seg_label_18.stl
+C:\ProgramData\Anaconda3\lib\site-packages\numpy\core\fromnumeric.py:3441: RuntimeWarning: Mean of empty slice.
+  out=out, **kwargs)
+C:\ProgramData\Anaconda3\lib\site-packages\numpy\core\_methods.py:182: RuntimeWarning: invalid value encountered in true_divide
+  ret, rcount, out=ret, casting='unsafe', subok=False)
+bad stl: 1.3.6.1.4.1.9328.50.4.0743_seg_label_17.stl
+bad stl: 1.3.6.1.4.1.9328.50.4.0746_seg_label_16.stl
+bad stl: 1.3.6.1.4.1.9328.50.4.0749_seg_label_17.stl
+bad stl: 1.3.6.1.4.1.9328.50.4.0750_seg_label_14.stl
+bad stl: 1.3.6.1.4.1.9328.50.4.0751_seg_label_14.stl
+bad stl: 1.3.6.1.4.1.9328.50.4.0753_seg_label_15.stl
+bad stl: 1.3.6.1.4.1.9328.50.4.0755_seg_label_16.stl
+bad stl: 1.3.6.1.4.1.9328.50.4.0758_seg_label_14.stl
+C:\ProgramData\Anaconda3\lib\site-packages\numpy\core\fromnumeric.py:3441: RuntimeWarning: Mean of empty slice.
+  out=out, **kwargs)
+C:\ProgramData\Anaconda3\lib\site-packages\numpy\core\_methods.py:182: RuntimeWarning: invalid value encountered in true_divide
+  ret, rcount, out=ret, casting='unsafe', subok=False)
+bad stl: 1.3.6.1.4.1.9328.50.4.0760_seg_label_16.stl
+bad stl: 1.3.6.1.4.1.9328.50.4.0761_seg_label_15.stl
+C:\ProgramData\Anaconda3\lib\site-packages\numpy\core\fromnumeric.py:3441: RuntimeWarning: Mean of empty slice.
+  out=out, **kwargs)
+C:\ProgramData\Anaconda3\lib\site-packages\numpy\core\_methods.py:182: RuntimeWarning: invalid value encountered in true_divide
+  ret, rcount, out=ret, casting='unsafe', subok=False)
+bad stl: 1.3.6.1.4.1.9328.50.4.0762_seg_label_16.stl
+bad stl: 1.3.6.1.4.1.9328.50.4.0763_seg_label_14.stl
+bad stl: 1.3.6.1.4.1.9328.50.4.0764_seg_label_16.stl
+bad stl: 1.3.6.1.4.1.9328.50.4.0766_seg_label_15.stl
+bad stl: 1.3.6.1.4.1.9328.50.4.0767_seg_label_15.stl
+bad stl: 1.3.6.1.4.1.9328.50.4.0769_seg_label_15.stl
+C:\ProgramData\Anaconda3\lib\site-packages\numpy\core\fromnumeric.py:3441: RuntimeWarning: Mean of empty slice.
+  out=out, **kwargs)
+C:\ProgramData\Anaconda3\lib\site-packages\numpy\core\_methods.py:182: RuntimeWarning: invalid value encountered in true_divide
+  ret, rcount, out=ret, casting='unsafe', subok=False)
+bad stl: 1.3.6.1.4.1.9328.50.4.0771_seg_label_16.stl
+C:\ProgramData\Anaconda3\lib\site-packages\numpy\core\fromnumeric.py:3441: RuntimeWarning: Mean of empty slice.
+  out=out, **kwargs)
+C:\ProgramData\Anaconda3\lib\site-packages\numpy\core\_methods.py:182: RuntimeWarning: invalid value encountered in true_divide
+  ret, rcount, out=ret, casting='unsafe', subok=False)
+bad stl: 1.3.6.1.4.1.9328.50.4.0772_seg_label_15.stl
+C:\ProgramData\Anaconda3\lib\site-packages\numpy\core\fromnumeric.py:3441: RuntimeWarning: Mean of empty slice.
+  out=out, **kwargs)
+C:\ProgramData\Anaconda3\lib\site-packages\numpy\core\_methods.py:182: RuntimeWarning: invalid value encountered in true_divide
+  ret, rcount, out=ret, casting='unsafe', subok=False)
+bad stl: 1.3.6.1.4.1.9328.50.4.0774_seg_label_14.stl
+C:\ProgramData\Anaconda3\lib\site-packages\numpy\core\fromnumeric.py:3441: RuntimeWarning: Mean of empty slice.
+  out=out, **kwargs)
+C:\ProgramData\Anaconda3\lib\site-packages\numpy\core\_methods.py:182: RuntimeWarning: invalid value encountered in true_divide
+  ret, rcount, out=ret, casting='unsafe', subok=False)
+bad stl: 1.3.6.1.4.1.9328.50.4.0778_seg_label_14.stl
+bad stl: 1.3.6.1.4.1.9328.50.4.0780_seg_label_18.stl
+bad stl: 1.3.6.1.4.1.9328.50.4.0782_seg_label_15.stl
+bad stl: 1.3.6.1.4.1.9328.50.4.0786_seg_label_15.stl
+C:\ProgramData\Anaconda3\lib\site-packages\numpy\core\fromnumeric.py:3441: RuntimeWarning: Mean of empty slice.
+  out=out, **kwargs)
+C:\ProgramData\Anaconda3\lib\site-packages\numpy\core\_methods.py:182: RuntimeWarning: invalid value encountered in true_divide
+  ret, rcount, out=ret, casting='unsafe', subok=False)
+bad stl: CTC-1050546075_seg_label_15.stl
+bad stl: CTC-1230993957_seg_label_16.stl
+bad stl: CTC-1535521839_seg_label_15.stl
+bad stl: CTC-2741063004_seg_label_16.stl
+C:\ProgramData\Anaconda3\lib\site-packages\numpy\core\fromnumeric.py:3441: RuntimeWarning: Mean of empty slice.
+  out=out, **kwargs)
+C:\ProgramData\Anaconda3\lib\site-packages\numpy\core\_methods.py:182: RuntimeWarning: invalid value encountered in true_divide
+  ret, rcount, out=ret, casting='unsafe', subok=False)
+bad stl: CTC-2869933960_seg_label_16.stl
+C:\ProgramData\Anaconda3\lib\site-packages\numpy\core\fromnumeric.py:3441: RuntimeWarning: Mean of empty slice.
+  out=out, **kwargs)
+C:\ProgramData\Anaconda3\lib\site-packages\numpy\core\_methods.py:182: RuntimeWarning: invalid value encountered in true_divide
+  ret, rcount, out=ret, casting='unsafe', subok=False)
+bad stl: CTC-3097916992_seg_label_16.stl
+bad stl: CTC-3105782108_seg_label_17.stl
+C:\ProgramData\Anaconda3\lib\site-packages\numpy\core\fromnumeric.py:3441: RuntimeWarning: Mean of empty slice.
+  out=out, **kwargs)
+C:\ProgramData\Anaconda3\lib\site-packages\numpy\core\_methods.py:182: RuntimeWarning: invalid value encountered in true_divide
+  ret, rcount, out=ret, casting='unsafe', subok=False)
+bad stl: CTC-3184713093_seg_label_13.stl
+bad stl: CTC-5401799343_seg_label_16.stl
+bad stl: CTC-5440088338_seg_label_15.stl
+C:\ProgramData\Anaconda3\lib\site-packages\numpy\core\fromnumeric.py:3441: RuntimeWarning: Mean of empty slice.
+  out=out, **kwargs)
+C:\ProgramData\Anaconda3\lib\site-packages\numpy\core\_methods.py:182: RuntimeWarning: invalid value encountered in true_divide
+  ret, rcount, out=ret, casting='unsafe', subok=False)
+bad stl: CTC-7281013000_seg_label_17.stl
+bad stl: CTC-7657031778_seg_label_14.stl
+C:\ProgramData\Anaconda3\lib\site-packages\numpy\core\fromnumeric.py:3441: RuntimeWarning: Mean of empty slice.
+  out=out, **kwargs)
+C:\ProgramData\Anaconda3\lib\site-packages\numpy\core\_methods.py:182: RuntimeWarning: invalid value encountered in true_divide
+  ret, rcount, out=ret, casting='unsafe', subok=False)
+bad stl: CTC-8337000787_seg_label_15.stl
+C:\ProgramData\Anaconda3\lib\site-packages\numpy\core\fromnumeric.py:3441: RuntimeWarning: Mean of empty slice.
+  out=out, **kwargs)
+C:\ProgramData\Anaconda3\lib\site-packages\numpy\core\_methods.py:182: RuntimeWarning: invalid value encountered in true_divide
+  ret, rcount, out=ret, casting='unsafe', subok=False)
+bad stl: liver_100_seg_label_16.stl
+bad stl: liver_101_seg_label_15.stl
+C:\ProgramData\Anaconda3\lib\site-packages\numpy\core\fromnumeric.py:3441: RuntimeWarning: Mean of empty slice.
+  out=out, **kwargs)
+C:\ProgramData\Anaconda3\lib\site-packages\numpy\core\_methods.py:182: RuntimeWarning: invalid value encountered in true_divide
+  ret, rcount, out=ret, casting='unsafe', subok=False)
+bad stl: liver_102_seg_label_15.stl
+bad stl: liver_103_seg_label_17.stl
+bad stl: liver_104_seg_label_07.stl
+bad stl: liver_105_seg_label_08.stl
+bad stl: liver_105_seg_label_16.stl
+C:\ProgramData\Anaconda3\lib\site-packages\numpy\core\fromnumeric.py:3441: RuntimeWarning: Mean of empty slice.
+  out=out, **kwargs)
+C:\ProgramData\Anaconda3\lib\site-packages\numpy\core\_methods.py:182: RuntimeWarning: invalid value encountered in true_divide
+  ret, rcount, out=ret, casting='unsafe', subok=False)
+bad stl: liver_106_seg_label_08.stl
+bad stl: liver_107_seg_label_08.stl
+bad stl: liver_108_seg_label_07.stl
+bad stl: liver_108_seg_label_15.stl
+C:\ProgramData\Anaconda3\lib\site-packages\numpy\core\fromnumeric.py:3441: RuntimeWarning: Mean of empty slice.
+  out=out, **kwargs)
+C:\ProgramData\Anaconda3\lib\site-packages\numpy\core\_methods.py:182: RuntimeWarning: invalid value encountered in true_divide
+  ret, rcount, out=ret, casting='unsafe', subok=False)
+bad stl: liver_111_seg_label_06.stl
+bad stl: liver_114_seg_label_06.stl
+bad stl: liver_114_seg_label_11.stl
+bad stl: liver_115_seg_label_07.stl
+bad stl: liver_115_seg_label_08.stl
+bad stl: liver_116_seg_label_07.stl
+C:\ProgramData\Anaconda3\lib\site-packages\numpy\core\fromnumeric.py:3441: RuntimeWarning: Mean of empty slice.
+  out=out, **kwargs)
+C:\ProgramData\Anaconda3\lib\site-packages\numpy\core\_methods.py:182: RuntimeWarning: invalid value encountered in true_divide
+  ret, rcount, out=ret, casting='unsafe', subok=False)
+bad stl: liver_128_seg_label_16.stl
+bad stl: liver_129_seg_label_17.stl
+bad stl: liver_129_seg_label_24.stl
+bad stl: liver_14_seg_label_08.stl
+bad stl: liver_159_seg_label_16.stl
+C:\ProgramData\Anaconda3\lib\site-packages\numpy\core\fromnumeric.py:3441: RuntimeWarning: Mean of empty slice.
+  out=out, **kwargs)
+C:\ProgramData\Anaconda3\lib\site-packages\numpy\core\_methods.py:182: RuntimeWarning: invalid value encountered in true_divide
+  ret, rcount, out=ret, casting='unsafe', subok=False)
+C:\ProgramData\Anaconda3\lib\site-packages\numpy\core\fromnumeric.py:3441: RuntimeWarning: Mean of empty slice.
+  out=out, **kwargs)
+C:\ProgramData\Anaconda3\lib\site-packages\numpy\core\_methods.py:182: RuntimeWarning: invalid value encountered in true_divide
+  ret, rcount, out=ret, casting='unsafe', subok=False)
+bad stl: liver_15_seg_label_07.stl
+bad stl: liver_161_seg_label_06.stl
+bad stl: liver_167_seg_label_16.stl
+bad stl: liver_17_seg_label_07.stl
+C:\ProgramData\Anaconda3\lib\site-packages\numpy\core\fromnumeric.py:3441: RuntimeWarning: Mean of empty slice.
+  out=out, **kwargs)
+C:\ProgramData\Anaconda3\lib\site-packages\numpy\core\_methods.py:182: RuntimeWarning: invalid value encountered in true_divide
+  ret, rcount, out=ret, casting='unsafe', subok=False)
+bad stl: liver_17_seg_label_08.stl
+bad stl: liver_182_seg_label_06.stl
+bad stl: liver_183_seg_label_08.stl
+bad stl: liver_184_seg_label_08.stl
+bad stl: liver_185_seg_label_15.stl
+bad stl: liver_18_seg_label_07.stl
+C:\ProgramData\Anaconda3\lib\site-packages\numpy\core\fromnumeric.py:3441: RuntimeWarning: Mean of empty slice.
+  out=out, **kwargs)
+C:\ProgramData\Anaconda3\lib\site-packages\numpy\core\_methods.py:182: RuntimeWarning: invalid value encountered in true_divide
+  ret, rcount, out=ret, casting='unsafe', subok=False)
+bad stl: liver_18_seg_label_08.stl
+bad stl: liver_19_seg_label_16.stl
+bad stl: liver_25_seg_label_17.stl
+bad stl: liver_26_seg_label_08.stl
+bad stl: liver_27_seg_label_07.stl
+bad stl: liver_3_seg_label_14.stl
+C:\ProgramData\Anaconda3\lib\site-packages\numpy\core\fromnumeric.py:3441: RuntimeWarning: Mean of empty slice.
+  out=out, **kwargs)
+C:\ProgramData\Anaconda3\lib\site-packages\numpy\core\_methods.py:182: RuntimeWarning: invalid value encountered in true_divide
+  ret, rcount, out=ret, casting='unsafe', subok=False)
+C:\ProgramData\Anaconda3\lib\site-packages\numpy\core\fromnumeric.py:3441: RuntimeWarning: Mean of empty slice.
+  out=out, **kwargs)
+C:\ProgramData\Anaconda3\lib\site-packages\numpy\core\_methods.py:182: RuntimeWarning: invalid value encountered in true_divide
+  ret, rcount, out=ret, casting='unsafe', subok=False)
+bad stl: liver_5_seg_label_15.stl
+bad stl: liver_65_seg_label_17.stl
+bad stl: liver_83_seg_label_07.stl
+bad stl: liver_86_seg_label_17.stl
+C:\ProgramData\Anaconda3\lib\site-packages\numpy\core\fromnumeric.py:3441: RuntimeWarning: Mean of empty slice.
+  out=out, **kwargs)
+C:\ProgramData\Anaconda3\lib\site-packages\numpy\core\_methods.py:182: RuntimeWarning: invalid value encountered in true_divide
+  ret, rcount, out=ret, casting='unsafe', subok=False)
+bad stl: liver_88_seg_label_06.stl
+bad stl: liver_89_seg_label_07.stl
+bad stl: liver_8_seg_label_14.stl
+bad stl: liver_90_seg_label_08.stl
+bad stl: liver_91_seg_label_08.stl
+bad stl: liver_92_seg_label_07.stl
+bad stl: liver_95_seg_label_07.stl
+bad stl: liver_97_seg_label_16.stl
+bad stl: liver_98_seg_label_16.stl
+bad stl: liver_99_seg_label_17.stl
+C:\ProgramData\Anaconda3\lib\site-packages\numpy\core\fromnumeric.py:3441: RuntimeWarning: Mean of empty slice.
+  out=out, **kwargs)
+C:\ProgramData\Anaconda3\lib\site-packages\numpy\core\_methods.py:182: RuntimeWarning: invalid value encountered in true_divide
+  ret, rcount, out=ret, casting='unsafe', subok=False)
+bad stl: liver_9_seg_label_14.stl
+bad stl: Test10_seg_label_02.stl
+bad stl: Test12_seg_label_02.stl
+bad stl: Test13_seg_label_02.stl
+C:\ProgramData\Anaconda3\lib\site-packages\numpy\core\fromnumeric.py:3441: RuntimeWarning: Mean of empty slice.
+  out=out, **kwargs)
+bad stl: volume-covid19-A-0003_ct_seg_label_19.stl
+C:\ProgramData\Anaconda3\lib\site-packages\numpy\core\_methods.py:182: RuntimeWarning: invalid value encountered in true_divide
+  ret, rcount, out=ret, casting='unsafe', subok=False)
+bad stl: volume-covid19-A-0013_ct_seg_label_19.stl
+
+Process finished with exit code 0

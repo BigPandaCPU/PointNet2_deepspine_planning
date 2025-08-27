@@ -1,0 +1,1036 @@
+2024-12-24 11:20:08,417 - Model - INFO - PARAMETER ...
+2024-12-24 11:20:08,417 - Model - INFO - Namespace(batch_size=8, class_choice=None, decay_rate=0.0001, epoch=5000, gpu='0', learning_rate=0.001, log_dir=None, lr_decay=0.5, model='pointnet2_part_seg_msg', normal=False, npoint=5000, optimizer='Adam', step_size=20)
+2024-12-24 11:20:08,418 - Model - INFO - The number of training data is: 366
+2024-12-24 11:20:08,418 - Model - INFO - The number of test data is: 41
+2024-12-24 11:20:09,787 - Model - INFO - No existing model, starting training from scratch...
+2024-12-24 11:20:09,789 - Model - INFO - Epoch 1 (1/5000):
+2024-12-24 11:20:09,789 - Model - INFO - Learning rate:0.001000
+2024-12-24 11:20:29,000 - Model - INFO - Train accuracy is: 0.59412
+2024-12-24 11:20:31,026 - Model - INFO - eval mIoU of spine          0.177553
+2024-12-24 11:20:31,026 - Model - INFO - Epoch 1 test Accuracy: 0.692054  Class avg mIOU: 0.177553   Inctance avg mIOU: 0.177553
+2024-12-24 11:20:31,026 - Model - INFO - Save model...
+2024-12-24 11:20:31,026 - Model - INFO - Saving at log/part_seg/2024-12-24_11-20/checkpoints/best_model.pth
+2024-12-24 11:20:31,075 - Model - INFO - Saving model....
+2024-12-24 11:20:31,075 - Model - INFO - Best accuracy is: 0.69205
+2024-12-24 11:20:31,075 - Model - INFO - Best class avg mIOU is: 0.17755
+2024-12-24 11:20:31,075 - Model - INFO - Best inctance avg mIOU is: 0.17755
+2024-12-24 11:20:31,075 - Model - INFO - Epoch 2 (2/5000):
+2024-12-24 11:20:31,075 - Model - INFO - Learning rate:0.001000
+2024-12-24 11:20:48,918 - Model - INFO - Train accuracy is: 0.80063
+2024-12-24 11:20:51,028 - Model - INFO - eval mIoU of spine          0.275069
+2024-12-24 11:20:51,028 - Model - INFO - Epoch 2 test Accuracy: 0.817376  Class avg mIOU: 0.275069   Inctance avg mIOU: 0.275069
+2024-12-24 11:20:51,028 - Model - INFO - Save model...
+2024-12-24 11:20:51,028 - Model - INFO - Saving at log/part_seg/2024-12-24_11-20/checkpoints/best_model.pth
+2024-12-24 11:20:51,123 - Model - INFO - Saving model....
+2024-12-24 11:20:51,124 - Model - INFO - Best accuracy is: 0.81738
+2024-12-24 11:20:51,124 - Model - INFO - Best class avg mIOU is: 0.27507
+2024-12-24 11:20:51,124 - Model - INFO - Best inctance avg mIOU is: 0.27507
+2024-12-24 11:20:51,124 - Model - INFO - Epoch 3 (3/5000):
+2024-12-24 11:20:51,124 - Model - INFO - Learning rate:0.001000
+2024-12-24 11:21:09,230 - Model - INFO - Train accuracy is: 0.83852
+2024-12-24 11:21:11,296 - Model - INFO - eval mIoU of spine          0.311521
+2024-12-24 11:21:11,296 - Model - INFO - Epoch 3 test Accuracy: 0.871849  Class avg mIOU: 0.311521   Inctance avg mIOU: 0.311521
+2024-12-24 11:21:11,296 - Model - INFO - Save model...
+2024-12-24 11:21:11,296 - Model - INFO - Saving at log/part_seg/2024-12-24_11-20/checkpoints/best_model.pth
+2024-12-24 11:21:11,399 - Model - INFO - Saving model....
+2024-12-24 11:21:11,400 - Model - INFO - Best accuracy is: 0.87185
+2024-12-24 11:21:11,400 - Model - INFO - Best class avg mIOU is: 0.31152
+2024-12-24 11:21:11,400 - Model - INFO - Best inctance avg mIOU is: 0.31152
+2024-12-24 11:21:11,400 - Model - INFO - Epoch 4 (4/5000):
+2024-12-24 11:21:11,400 - Model - INFO - Learning rate:0.001000
+2024-12-24 11:21:29,560 - Model - INFO - Train accuracy is: 0.85920
+2024-12-24 11:21:31,741 - Model - INFO - eval mIoU of spine          0.287253
+2024-12-24 11:21:31,741 - Model - INFO - Epoch 4 test Accuracy: 0.834980  Class avg mIOU: 0.287253   Inctance avg mIOU: 0.287253
+2024-12-24 11:21:31,741 - Model - INFO - Best accuracy is: 0.87185
+2024-12-24 11:21:31,741 - Model - INFO - Best class avg mIOU is: 0.31152
+2024-12-24 11:21:31,741 - Model - INFO - Best inctance avg mIOU is: 0.31152
+2024-12-24 11:21:31,741 - Model - INFO - Epoch 5 (5/5000):
+2024-12-24 11:21:31,741 - Model - INFO - Learning rate:0.001000
+2024-12-24 11:21:49,695 - Model - INFO - Train accuracy is: 0.85738
+2024-12-24 11:21:51,697 - Model - INFO - eval mIoU of spine          0.286037
+2024-12-24 11:21:51,697 - Model - INFO - Epoch 5 test Accuracy: 0.821917  Class avg mIOU: 0.286037   Inctance avg mIOU: 0.286037
+2024-12-24 11:21:51,697 - Model - INFO - Best accuracy is: 0.87185
+2024-12-24 11:21:51,697 - Model - INFO - Best class avg mIOU is: 0.31152
+2024-12-24 11:21:51,697 - Model - INFO - Best inctance avg mIOU is: 0.31152
+2024-12-24 11:21:51,697 - Model - INFO - Epoch 6 (6/5000):
+2024-12-24 11:21:51,697 - Model - INFO - Learning rate:0.001000
+2024-12-24 11:22:09,752 - Model - INFO - Train accuracy is: 0.86788
+2024-12-24 11:22:11,796 - Model - INFO - eval mIoU of spine          0.315909
+2024-12-24 11:22:11,796 - Model - INFO - Epoch 6 test Accuracy: 0.877361  Class avg mIOU: 0.315909   Inctance avg mIOU: 0.315909
+2024-12-24 11:22:11,796 - Model - INFO - Save model...
+2024-12-24 11:22:11,796 - Model - INFO - Saving at log/part_seg/2024-12-24_11-20/checkpoints/best_model.pth
+2024-12-24 11:22:11,881 - Model - INFO - Saving model....
+2024-12-24 11:22:11,881 - Model - INFO - Best accuracy is: 0.87736
+2024-12-24 11:22:11,881 - Model - INFO - Best class avg mIOU is: 0.31591
+2024-12-24 11:22:11,881 - Model - INFO - Best inctance avg mIOU is: 0.31591
+2024-12-24 11:22:11,881 - Model - INFO - Epoch 7 (7/5000):
+2024-12-24 11:22:11,881 - Model - INFO - Learning rate:0.001000
+2024-12-24 11:22:29,921 - Model - INFO - Train accuracy is: 0.87770
+2024-12-24 11:22:31,990 - Model - INFO - eval mIoU of spine          0.350330
+2024-12-24 11:22:31,990 - Model - INFO - Epoch 7 test Accuracy: 0.901741  Class avg mIOU: 0.350330   Inctance avg mIOU: 0.350330
+2024-12-24 11:22:31,990 - Model - INFO - Save model...
+2024-12-24 11:22:31,990 - Model - INFO - Saving at log/part_seg/2024-12-24_11-20/checkpoints/best_model.pth
+2024-12-24 11:22:32,071 - Model - INFO - Saving model....
+2024-12-24 11:22:32,071 - Model - INFO - Best accuracy is: 0.90174
+2024-12-24 11:22:32,071 - Model - INFO - Best class avg mIOU is: 0.35033
+2024-12-24 11:22:32,071 - Model - INFO - Best inctance avg mIOU is: 0.35033
+2024-12-24 11:22:32,071 - Model - INFO - Epoch 8 (8/5000):
+2024-12-24 11:22:32,071 - Model - INFO - Learning rate:0.001000
+2024-12-24 11:22:49,908 - Model - INFO - Train accuracy is: 0.88118
+2024-12-24 11:22:51,916 - Model - INFO - eval mIoU of spine          0.355065
+2024-12-24 11:22:51,916 - Model - INFO - Epoch 8 test Accuracy: 0.905629  Class avg mIOU: 0.355065   Inctance avg mIOU: 0.355065
+2024-12-24 11:22:51,916 - Model - INFO - Save model...
+2024-12-24 11:22:51,916 - Model - INFO - Saving at log/part_seg/2024-12-24_11-20/checkpoints/best_model.pth
+2024-12-24 11:22:52,004 - Model - INFO - Saving model....
+2024-12-24 11:22:52,004 - Model - INFO - Best accuracy is: 0.90563
+2024-12-24 11:22:52,004 - Model - INFO - Best class avg mIOU is: 0.35506
+2024-12-24 11:22:52,004 - Model - INFO - Best inctance avg mIOU is: 0.35506
+2024-12-24 11:22:52,004 - Model - INFO - Epoch 9 (9/5000):
+2024-12-24 11:22:52,004 - Model - INFO - Learning rate:0.001000
+2024-12-24 11:23:09,665 - Model - INFO - Train accuracy is: 0.88573
+2024-12-24 11:23:11,635 - Model - INFO - eval mIoU of spine          0.320793
+2024-12-24 11:23:11,635 - Model - INFO - Epoch 9 test Accuracy: 0.875698  Class avg mIOU: 0.320793   Inctance avg mIOU: 0.320793
+2024-12-24 11:23:11,635 - Model - INFO - Best accuracy is: 0.90563
+2024-12-24 11:23:11,635 - Model - INFO - Best class avg mIOU is: 0.35506
+2024-12-24 11:23:11,635 - Model - INFO - Best inctance avg mIOU is: 0.35506
+2024-12-24 11:23:11,635 - Model - INFO - Epoch 10 (10/5000):
+2024-12-24 11:23:11,635 - Model - INFO - Learning rate:0.001000
+2024-12-24 11:23:29,656 - Model - INFO - Train accuracy is: 0.88506
+2024-12-24 11:23:31,653 - Model - INFO - eval mIoU of spine          0.364787
+2024-12-24 11:23:31,653 - Model - INFO - Epoch 10 test Accuracy: 0.916649  Class avg mIOU: 0.364787   Inctance avg mIOU: 0.364787
+2024-12-24 11:23:31,653 - Model - INFO - Save model...
+2024-12-24 11:23:31,653 - Model - INFO - Saving at log/part_seg/2024-12-24_11-20/checkpoints/best_model.pth
+2024-12-24 11:23:31,738 - Model - INFO - Saving model....
+2024-12-24 11:23:31,738 - Model - INFO - Best accuracy is: 0.91665
+2024-12-24 11:23:31,738 - Model - INFO - Best class avg mIOU is: 0.36479
+2024-12-24 11:23:31,739 - Model - INFO - Best inctance avg mIOU is: 0.36479
+2024-12-24 11:23:31,739 - Model - INFO - Epoch 11 (11/5000):
+2024-12-24 11:23:31,739 - Model - INFO - Learning rate:0.001000
+2024-12-24 11:23:49,609 - Model - INFO - Train accuracy is: 0.89607
+2024-12-24 11:23:51,600 - Model - INFO - eval mIoU of spine          0.326586
+2024-12-24 11:23:51,601 - Model - INFO - Epoch 11 test Accuracy: 0.880190  Class avg mIOU: 0.326586   Inctance avg mIOU: 0.326586
+2024-12-24 11:23:51,601 - Model - INFO - Best accuracy is: 0.91665
+2024-12-24 11:23:51,601 - Model - INFO - Best class avg mIOU is: 0.36479
+2024-12-24 11:23:51,601 - Model - INFO - Best inctance avg mIOU is: 0.36479
+2024-12-24 11:23:51,601 - Model - INFO - Epoch 12 (12/5000):
+2024-12-24 11:23:51,601 - Model - INFO - Learning rate:0.001000
+2024-12-24 11:24:09,793 - Model - INFO - Train accuracy is: 0.90527
+2024-12-24 11:24:11,809 - Model - INFO - eval mIoU of spine          0.381750
+2024-12-24 11:24:11,809 - Model - INFO - Epoch 12 test Accuracy: 0.926878  Class avg mIOU: 0.381750   Inctance avg mIOU: 0.381750
+2024-12-24 11:24:11,809 - Model - INFO - Save model...
+2024-12-24 11:24:11,809 - Model - INFO - Saving at log/part_seg/2024-12-24_11-20/checkpoints/best_model.pth
+2024-12-24 11:24:11,914 - Model - INFO - Saving model....
+2024-12-24 11:24:11,914 - Model - INFO - Best accuracy is: 0.92688
+2024-12-24 11:24:11,915 - Model - INFO - Best class avg mIOU is: 0.38175
+2024-12-24 11:24:11,915 - Model - INFO - Best inctance avg mIOU is: 0.38175
+2024-12-24 11:24:11,915 - Model - INFO - Epoch 13 (13/5000):
+2024-12-24 11:24:11,915 - Model - INFO - Learning rate:0.001000
+2024-12-24 11:24:29,790 - Model - INFO - Train accuracy is: 0.90158
+2024-12-24 11:24:31,776 - Model - INFO - eval mIoU of spine          0.347130
+2024-12-24 11:24:31,777 - Model - INFO - Epoch 13 test Accuracy: 0.890844  Class avg mIOU: 0.347130   Inctance avg mIOU: 0.347130
+2024-12-24 11:24:31,777 - Model - INFO - Best accuracy is: 0.92688
+2024-12-24 11:24:31,777 - Model - INFO - Best class avg mIOU is: 0.38175
+2024-12-24 11:24:31,777 - Model - INFO - Best inctance avg mIOU is: 0.38175
+2024-12-24 11:24:31,777 - Model - INFO - Epoch 14 (14/5000):
+2024-12-24 11:24:31,777 - Model - INFO - Learning rate:0.001000
+2024-12-24 11:24:49,574 - Model - INFO - Train accuracy is: 0.89461
+2024-12-24 11:24:51,531 - Model - INFO - eval mIoU of spine          0.319725
+2024-12-24 11:24:51,531 - Model - INFO - Epoch 14 test Accuracy: 0.867015  Class avg mIOU: 0.319725   Inctance avg mIOU: 0.319725
+2024-12-24 11:24:51,531 - Model - INFO - Best accuracy is: 0.92688
+2024-12-24 11:24:51,531 - Model - INFO - Best class avg mIOU is: 0.38175
+2024-12-24 11:24:51,531 - Model - INFO - Best inctance avg mIOU is: 0.38175
+2024-12-24 11:24:51,531 - Model - INFO - Epoch 15 (15/5000):
+2024-12-24 11:24:51,531 - Model - INFO - Learning rate:0.001000
+2024-12-24 11:25:09,274 - Model - INFO - Train accuracy is: 0.89587
+2024-12-24 11:25:11,301 - Model - INFO - eval mIoU of spine          0.353582
+2024-12-24 11:25:11,301 - Model - INFO - Epoch 15 test Accuracy: 0.901732  Class avg mIOU: 0.353582   Inctance avg mIOU: 0.353582
+2024-12-24 11:25:11,301 - Model - INFO - Best accuracy is: 0.92688
+2024-12-24 11:25:11,302 - Model - INFO - Best class avg mIOU is: 0.38175
+2024-12-24 11:25:11,302 - Model - INFO - Best inctance avg mIOU is: 0.38175
+2024-12-24 11:25:11,302 - Model - INFO - Epoch 16 (16/5000):
+2024-12-24 11:25:11,302 - Model - INFO - Learning rate:0.001000
+2024-12-24 11:25:29,333 - Model - INFO - Train accuracy is: 0.90375
+2024-12-24 11:25:31,345 - Model - INFO - eval mIoU of spine          0.341139
+2024-12-24 11:25:31,346 - Model - INFO - Epoch 16 test Accuracy: 0.896395  Class avg mIOU: 0.341139   Inctance avg mIOU: 0.341139
+2024-12-24 11:25:31,346 - Model - INFO - Best accuracy is: 0.92688
+2024-12-24 11:25:31,346 - Model - INFO - Best class avg mIOU is: 0.38175
+2024-12-24 11:25:31,346 - Model - INFO - Best inctance avg mIOU is: 0.38175
+2024-12-24 11:25:31,346 - Model - INFO - Epoch 17 (17/5000):
+2024-12-24 11:25:31,346 - Model - INFO - Learning rate:0.001000
+2024-12-24 11:25:49,270 - Model - INFO - Train accuracy is: 0.89995
+2024-12-24 11:25:51,226 - Model - INFO - eval mIoU of spine          0.311154
+2024-12-24 11:25:51,227 - Model - INFO - Epoch 17 test Accuracy: 0.861029  Class avg mIOU: 0.311154   Inctance avg mIOU: 0.311154
+2024-12-24 11:25:51,227 - Model - INFO - Best accuracy is: 0.92688
+2024-12-24 11:25:51,227 - Model - INFO - Best class avg mIOU is: 0.38175
+2024-12-24 11:25:51,227 - Model - INFO - Best inctance avg mIOU is: 0.38175
+2024-12-24 11:25:51,227 - Model - INFO - Epoch 18 (18/5000):
+2024-12-24 11:25:51,227 - Model - INFO - Learning rate:0.001000
+2024-12-24 11:26:09,200 - Model - INFO - Train accuracy is: 0.89599
+2024-12-24 11:26:11,217 - Model - INFO - eval mIoU of spine          0.353601
+2024-12-24 11:26:11,217 - Model - INFO - Epoch 18 test Accuracy: 0.904210  Class avg mIOU: 0.353601   Inctance avg mIOU: 0.353601
+2024-12-24 11:26:11,217 - Model - INFO - Best accuracy is: 0.92688
+2024-12-24 11:26:11,217 - Model - INFO - Best class avg mIOU is: 0.38175
+2024-12-24 11:26:11,217 - Model - INFO - Best inctance avg mIOU is: 0.38175
+2024-12-24 11:26:11,217 - Model - INFO - Epoch 19 (19/5000):
+2024-12-24 11:26:11,217 - Model - INFO - Learning rate:0.001000
+2024-12-24 11:26:29,143 - Model - INFO - Train accuracy is: 0.90065
+2024-12-24 11:26:31,178 - Model - INFO - eval mIoU of spine          0.362683
+2024-12-24 11:26:31,179 - Model - INFO - Epoch 19 test Accuracy: 0.914761  Class avg mIOU: 0.362683   Inctance avg mIOU: 0.362683
+2024-12-24 11:26:31,179 - Model - INFO - Best accuracy is: 0.92688
+2024-12-24 11:26:31,179 - Model - INFO - Best class avg mIOU is: 0.38175
+2024-12-24 11:26:31,179 - Model - INFO - Best inctance avg mIOU is: 0.38175
+2024-12-24 11:26:31,179 - Model - INFO - Epoch 20 (20/5000):
+2024-12-24 11:26:31,179 - Model - INFO - Learning rate:0.001000
+2024-12-24 11:26:49,163 - Model - INFO - Train accuracy is: 0.90908
+2024-12-24 11:26:51,211 - Model - INFO - eval mIoU of spine          0.373806
+2024-12-24 11:26:51,211 - Model - INFO - Epoch 20 test Accuracy: 0.920751  Class avg mIOU: 0.373806   Inctance avg mIOU: 0.373806
+2024-12-24 11:26:51,211 - Model - INFO - Best accuracy is: 0.92688
+2024-12-24 11:26:51,211 - Model - INFO - Best class avg mIOU is: 0.38175
+2024-12-24 11:26:51,211 - Model - INFO - Best inctance avg mIOU is: 0.38175
+2024-12-24 11:26:51,211 - Model - INFO - Epoch 21 (21/5000):
+2024-12-24 11:26:51,211 - Model - INFO - Learning rate:0.000500
+2024-12-24 11:27:09,473 - Model - INFO - Train accuracy is: 0.91986
+2024-12-24 11:27:11,426 - Model - INFO - eval mIoU of spine          0.405005
+2024-12-24 11:27:11,426 - Model - INFO - Epoch 21 test Accuracy: 0.936444  Class avg mIOU: 0.405005   Inctance avg mIOU: 0.405005
+2024-12-24 11:27:11,426 - Model - INFO - Save model...
+2024-12-24 11:27:11,426 - Model - INFO - Saving at log/part_seg/2024-12-24_11-20/checkpoints/best_model.pth
+2024-12-24 11:27:11,511 - Model - INFO - Saving model....
+2024-12-24 11:27:11,512 - Model - INFO - Best accuracy is: 0.93644
+2024-12-24 11:27:11,512 - Model - INFO - Best class avg mIOU is: 0.40501
+2024-12-24 11:27:11,512 - Model - INFO - Best inctance avg mIOU is: 0.40501
+2024-12-24 11:27:11,512 - Model - INFO - Epoch 22 (22/5000):
+2024-12-24 11:27:11,512 - Model - INFO - Learning rate:0.000500
+2024-12-24 11:27:29,449 - Model - INFO - Train accuracy is: 0.92397
+2024-12-24 11:27:31,442 - Model - INFO - eval mIoU of spine          0.392754
+2024-12-24 11:27:31,442 - Model - INFO - Epoch 22 test Accuracy: 0.932356  Class avg mIOU: 0.392754   Inctance avg mIOU: 0.392754
+2024-12-24 11:27:31,442 - Model - INFO - Best accuracy is: 0.93644
+2024-12-24 11:27:31,442 - Model - INFO - Best class avg mIOU is: 0.40501
+2024-12-24 11:27:31,442 - Model - INFO - Best inctance avg mIOU is: 0.40501
+2024-12-24 11:27:31,442 - Model - INFO - Epoch 23 (23/5000):
+2024-12-24 11:27:31,442 - Model - INFO - Learning rate:0.000500
+2024-12-24 11:27:49,394 - Model - INFO - Train accuracy is: 0.92847
+2024-12-24 11:27:51,406 - Model - INFO - eval mIoU of spine          0.392215
+2024-12-24 11:27:51,406 - Model - INFO - Epoch 23 test Accuracy: 0.931698  Class avg mIOU: 0.392215   Inctance avg mIOU: 0.392215
+2024-12-24 11:27:51,406 - Model - INFO - Best accuracy is: 0.93644
+2024-12-24 11:27:51,406 - Model - INFO - Best class avg mIOU is: 0.40501
+2024-12-24 11:27:51,406 - Model - INFO - Best inctance avg mIOU is: 0.40501
+2024-12-24 11:27:51,406 - Model - INFO - Epoch 24 (24/5000):
+2024-12-24 11:27:51,406 - Model - INFO - Learning rate:0.000500
+2024-12-24 11:28:09,297 - Model - INFO - Train accuracy is: 0.92305
+2024-12-24 11:28:11,260 - Model - INFO - eval mIoU of spine          0.377932
+2024-12-24 11:28:11,260 - Model - INFO - Epoch 24 test Accuracy: 0.923122  Class avg mIOU: 0.377932   Inctance avg mIOU: 0.377932
+2024-12-24 11:28:11,260 - Model - INFO - Best accuracy is: 0.93644
+2024-12-24 11:28:11,260 - Model - INFO - Best class avg mIOU is: 0.40501
+2024-12-24 11:28:11,260 - Model - INFO - Best inctance avg mIOU is: 0.40501
+2024-12-24 11:28:11,260 - Model - INFO - Epoch 25 (25/5000):
+2024-12-24 11:28:11,260 - Model - INFO - Learning rate:0.000500
+2024-12-24 11:28:29,398 - Model - INFO - Train accuracy is: 0.92400
+2024-12-24 11:28:31,392 - Model - INFO - eval mIoU of spine          0.386245
+2024-12-24 11:28:31,392 - Model - INFO - Epoch 25 test Accuracy: 0.930922  Class avg mIOU: 0.386245   Inctance avg mIOU: 0.386245
+2024-12-24 11:28:31,392 - Model - INFO - Best accuracy is: 0.93644
+2024-12-24 11:28:31,392 - Model - INFO - Best class avg mIOU is: 0.40501
+2024-12-24 11:28:31,392 - Model - INFO - Best inctance avg mIOU is: 0.40501
+2024-12-24 11:28:31,392 - Model - INFO - Epoch 26 (26/5000):
+2024-12-24 11:28:31,392 - Model - INFO - Learning rate:0.000500
+2024-12-24 11:28:49,474 - Model - INFO - Train accuracy is: 0.92926
+2024-12-24 11:28:51,463 - Model - INFO - eval mIoU of spine          0.390203
+2024-12-24 11:28:51,463 - Model - INFO - Epoch 26 test Accuracy: 0.934117  Class avg mIOU: 0.390203   Inctance avg mIOU: 0.390203
+2024-12-24 11:28:51,463 - Model - INFO - Best accuracy is: 0.93644
+2024-12-24 11:28:51,463 - Model - INFO - Best class avg mIOU is: 0.40501
+2024-12-24 11:28:51,463 - Model - INFO - Best inctance avg mIOU is: 0.40501
+2024-12-24 11:28:51,463 - Model - INFO - Epoch 27 (27/5000):
+2024-12-24 11:28:51,463 - Model - INFO - Learning rate:0.000500
+2024-12-24 11:29:09,673 - Model - INFO - Train accuracy is: 0.92730
+2024-12-24 11:29:11,723 - Model - INFO - eval mIoU of spine          0.381887
+2024-12-24 11:29:11,724 - Model - INFO - Epoch 27 test Accuracy: 0.927824  Class avg mIOU: 0.381887   Inctance avg mIOU: 0.381887
+2024-12-24 11:29:11,724 - Model - INFO - Best accuracy is: 0.93644
+2024-12-24 11:29:11,724 - Model - INFO - Best class avg mIOU is: 0.40501
+2024-12-24 11:29:11,724 - Model - INFO - Best inctance avg mIOU is: 0.40501
+2024-12-24 11:29:11,724 - Model - INFO - Epoch 28 (28/5000):
+2024-12-24 11:29:11,724 - Model - INFO - Learning rate:0.000500
+2024-12-24 11:29:29,524 - Model - INFO - Train accuracy is: 0.92984
+2024-12-24 11:29:31,525 - Model - INFO - eval mIoU of spine          0.399872
+2024-12-24 11:29:31,525 - Model - INFO - Epoch 28 test Accuracy: 0.935868  Class avg mIOU: 0.399872   Inctance avg mIOU: 0.399872
+2024-12-24 11:29:31,525 - Model - INFO - Best accuracy is: 0.93644
+2024-12-24 11:29:31,526 - Model - INFO - Best class avg mIOU is: 0.40501
+2024-12-24 11:29:31,526 - Model - INFO - Best inctance avg mIOU is: 0.40501
+2024-12-24 11:29:31,526 - Model - INFO - Epoch 29 (29/5000):
+2024-12-24 11:29:31,526 - Model - INFO - Learning rate:0.000500
+2024-12-24 11:29:49,241 - Model - INFO - Train accuracy is: 0.93179
+2024-12-24 11:29:51,219 - Model - INFO - eval mIoU of spine          0.412210
+2024-12-24 11:29:51,220 - Model - INFO - Epoch 29 test Accuracy: 0.939112  Class avg mIOU: 0.412210   Inctance avg mIOU: 0.412210
+2024-12-24 11:29:51,220 - Model - INFO - Save model...
+2024-12-24 11:29:51,220 - Model - INFO - Saving at log/part_seg/2024-12-24_11-20/checkpoints/best_model.pth
+2024-12-24 11:29:51,310 - Model - INFO - Saving model....
+2024-12-24 11:29:51,310 - Model - INFO - Best accuracy is: 0.93911
+2024-12-24 11:29:51,310 - Model - INFO - Best class avg mIOU is: 0.41221
+2024-12-24 11:29:51,310 - Model - INFO - Best inctance avg mIOU is: 0.41221
+2024-12-24 11:29:51,310 - Model - INFO - Epoch 30 (30/5000):
+2024-12-24 11:29:51,310 - Model - INFO - Learning rate:0.000500
+2024-12-24 11:30:09,142 - Model - INFO - Train accuracy is: 0.93461
+2024-12-24 11:30:11,229 - Model - INFO - eval mIoU of spine          0.401647
+2024-12-24 11:30:11,229 - Model - INFO - Epoch 30 test Accuracy: 0.935888  Class avg mIOU: 0.401647   Inctance avg mIOU: 0.401647
+2024-12-24 11:30:11,229 - Model - INFO - Best accuracy is: 0.93911
+2024-12-24 11:30:11,229 - Model - INFO - Best class avg mIOU is: 0.41221
+2024-12-24 11:30:11,230 - Model - INFO - Best inctance avg mIOU is: 0.41221
+2024-12-24 11:30:11,230 - Model - INFO - Epoch 31 (31/5000):
+2024-12-24 11:30:11,230 - Model - INFO - Learning rate:0.000500
+2024-12-24 11:30:28,911 - Model - INFO - Train accuracy is: 0.93476
+2024-12-24 11:30:31,075 - Model - INFO - eval mIoU of spine          0.398920
+2024-12-24 11:30:31,075 - Model - INFO - Epoch 31 test Accuracy: 0.934571  Class avg mIOU: 0.398920   Inctance avg mIOU: 0.398920
+2024-12-24 11:30:31,075 - Model - INFO - Best accuracy is: 0.93911
+2024-12-24 11:30:31,075 - Model - INFO - Best class avg mIOU is: 0.41221
+2024-12-24 11:30:31,075 - Model - INFO - Best inctance avg mIOU is: 0.41221
+2024-12-24 11:30:31,075 - Model - INFO - Epoch 32 (32/5000):
+2024-12-24 11:30:31,075 - Model - INFO - Learning rate:0.000500
+2024-12-24 11:30:49,456 - Model - INFO - Train accuracy is: 0.93205
+2024-12-24 11:30:51,455 - Model - INFO - eval mIoU of spine          0.406811
+2024-12-24 11:30:51,456 - Model - INFO - Epoch 32 test Accuracy: 0.941341  Class avg mIOU: 0.406811   Inctance avg mIOU: 0.406811
+2024-12-24 11:30:51,456 - Model - INFO - Best accuracy is: 0.94134
+2024-12-24 11:30:51,456 - Model - INFO - Best class avg mIOU is: 0.41221
+2024-12-24 11:30:51,456 - Model - INFO - Best inctance avg mIOU is: 0.41221
+2024-12-24 11:30:51,456 - Model - INFO - Epoch 33 (33/5000):
+2024-12-24 11:30:51,456 - Model - INFO - Learning rate:0.000500
+2024-12-24 11:31:09,138 - Model - INFO - Train accuracy is: 0.93138
+2024-12-24 11:31:11,130 - Model - INFO - eval mIoU of spine          0.383724
+2024-12-24 11:31:11,131 - Model - INFO - Epoch 33 test Accuracy: 0.929210  Class avg mIOU: 0.383724   Inctance avg mIOU: 0.383724
+2024-12-24 11:31:11,131 - Model - INFO - Best accuracy is: 0.94134
+2024-12-24 11:31:11,131 - Model - INFO - Best class avg mIOU is: 0.41221
+2024-12-24 11:31:11,131 - Model - INFO - Best inctance avg mIOU is: 0.41221
+2024-12-24 11:31:11,131 - Model - INFO - Epoch 34 (34/5000):
+2024-12-24 11:31:11,131 - Model - INFO - Learning rate:0.000500
+2024-12-24 11:31:29,365 - Model - INFO - Train accuracy is: 0.92962
+2024-12-24 11:31:31,391 - Model - INFO - eval mIoU of spine          0.407084
+2024-12-24 11:31:31,391 - Model - INFO - Epoch 34 test Accuracy: 0.935561  Class avg mIOU: 0.407084   Inctance avg mIOU: 0.407084
+2024-12-24 11:31:31,391 - Model - INFO - Best accuracy is: 0.94134
+2024-12-24 11:31:31,391 - Model - INFO - Best class avg mIOU is: 0.41221
+2024-12-24 11:31:31,391 - Model - INFO - Best inctance avg mIOU is: 0.41221
+2024-12-24 11:31:31,391 - Model - INFO - Epoch 35 (35/5000):
+2024-12-24 11:31:31,391 - Model - INFO - Learning rate:0.000500
+2024-12-24 11:31:49,119 - Model - INFO - Train accuracy is: 0.93262
+2024-12-24 11:31:51,159 - Model - INFO - eval mIoU of spine          0.407810
+2024-12-24 11:31:51,159 - Model - INFO - Epoch 35 test Accuracy: 0.939059  Class avg mIOU: 0.407810   Inctance avg mIOU: 0.407810
+2024-12-24 11:31:51,159 - Model - INFO - Best accuracy is: 0.94134
+2024-12-24 11:31:51,159 - Model - INFO - Best class avg mIOU is: 0.41221
+2024-12-24 11:31:51,159 - Model - INFO - Best inctance avg mIOU is: 0.41221
+2024-12-24 11:31:51,159 - Model - INFO - Epoch 36 (36/5000):
+2024-12-24 11:31:51,159 - Model - INFO - Learning rate:0.000500
+2024-12-24 11:32:09,156 - Model - INFO - Train accuracy is: 0.93006
+2024-12-24 11:32:11,083 - Model - INFO - eval mIoU of spine          0.400150
+2024-12-24 11:32:11,084 - Model - INFO - Epoch 36 test Accuracy: 0.938093  Class avg mIOU: 0.400150   Inctance avg mIOU: 0.400150
+2024-12-24 11:32:11,084 - Model - INFO - Best accuracy is: 0.94134
+2024-12-24 11:32:11,084 - Model - INFO - Best class avg mIOU is: 0.41221
+2024-12-24 11:32:11,084 - Model - INFO - Best inctance avg mIOU is: 0.41221
+2024-12-24 11:32:11,084 - Model - INFO - Epoch 37 (37/5000):
+2024-12-24 11:32:11,084 - Model - INFO - Learning rate:0.000500
+2024-12-24 11:32:28,892 - Model - INFO - Train accuracy is: 0.93497
+2024-12-24 11:32:30,835 - Model - INFO - eval mIoU of spine          0.406465
+2024-12-24 11:32:30,835 - Model - INFO - Epoch 37 test Accuracy: 0.936288  Class avg mIOU: 0.406465   Inctance avg mIOU: 0.406465
+2024-12-24 11:32:30,835 - Model - INFO - Best accuracy is: 0.94134
+2024-12-24 11:32:30,835 - Model - INFO - Best class avg mIOU is: 0.41221
+2024-12-24 11:32:30,836 - Model - INFO - Best inctance avg mIOU is: 0.41221
+2024-12-24 11:32:30,836 - Model - INFO - Epoch 38 (38/5000):
+2024-12-24 11:32:30,836 - Model - INFO - Learning rate:0.000500
+2024-12-24 11:32:48,798 - Model - INFO - Train accuracy is: 0.93165
+2024-12-24 11:32:50,805 - Model - INFO - eval mIoU of spine          0.403236
+2024-12-24 11:32:50,805 - Model - INFO - Epoch 38 test Accuracy: 0.936376  Class avg mIOU: 0.403236   Inctance avg mIOU: 0.403236
+2024-12-24 11:32:50,805 - Model - INFO - Best accuracy is: 0.94134
+2024-12-24 11:32:50,805 - Model - INFO - Best class avg mIOU is: 0.41221
+2024-12-24 11:32:50,805 - Model - INFO - Best inctance avg mIOU is: 0.41221
+2024-12-24 11:32:50,805 - Model - INFO - Epoch 39 (39/5000):
+2024-12-24 11:32:50,805 - Model - INFO - Learning rate:0.000500
+2024-12-24 11:33:09,181 - Model - INFO - Train accuracy is: 0.93360
+2024-12-24 11:33:11,211 - Model - INFO - eval mIoU of spine          0.404389
+2024-12-24 11:33:11,211 - Model - INFO - Epoch 39 test Accuracy: 0.933595  Class avg mIOU: 0.404389   Inctance avg mIOU: 0.404389
+2024-12-24 11:33:11,211 - Model - INFO - Best accuracy is: 0.94134
+2024-12-24 11:33:11,211 - Model - INFO - Best class avg mIOU is: 0.41221
+2024-12-24 11:33:11,211 - Model - INFO - Best inctance avg mIOU is: 0.41221
+2024-12-24 11:33:11,211 - Model - INFO - Epoch 40 (40/5000):
+2024-12-24 11:33:11,211 - Model - INFO - Learning rate:0.000500
+2024-12-24 11:33:29,205 - Model - INFO - Train accuracy is: 0.93589
+2024-12-24 11:33:31,184 - Model - INFO - eval mIoU of spine          0.405782
+2024-12-24 11:33:31,185 - Model - INFO - Epoch 40 test Accuracy: 0.940571  Class avg mIOU: 0.405782   Inctance avg mIOU: 0.405782
+2024-12-24 11:33:31,185 - Model - INFO - Best accuracy is: 0.94134
+2024-12-24 11:33:31,185 - Model - INFO - Best class avg mIOU is: 0.41221
+2024-12-24 11:33:31,185 - Model - INFO - Best inctance avg mIOU is: 0.41221
+2024-12-24 11:33:31,185 - Model - INFO - Epoch 41 (41/5000):
+2024-12-24 11:33:31,185 - Model - INFO - Learning rate:0.000250
+2024-12-24 11:33:49,384 - Model - INFO - Train accuracy is: 0.93790
+2024-12-24 11:33:51,373 - Model - INFO - eval mIoU of spine          0.405192
+2024-12-24 11:33:51,373 - Model - INFO - Epoch 41 test Accuracy: 0.939015  Class avg mIOU: 0.405192   Inctance avg mIOU: 0.405192
+2024-12-24 11:33:51,373 - Model - INFO - Best accuracy is: 0.94134
+2024-12-24 11:33:51,373 - Model - INFO - Best class avg mIOU is: 0.41221
+2024-12-24 11:33:51,374 - Model - INFO - Best inctance avg mIOU is: 0.41221
+2024-12-24 11:33:51,374 - Model - INFO - Epoch 42 (42/5000):
+2024-12-24 11:33:51,374 - Model - INFO - Learning rate:0.000250
+2024-12-24 11:34:09,230 - Model - INFO - Train accuracy is: 0.93983
+2024-12-24 11:34:11,235 - Model - INFO - eval mIoU of spine          0.413100
+2024-12-24 11:34:11,235 - Model - INFO - Epoch 42 test Accuracy: 0.941234  Class avg mIOU: 0.413100   Inctance avg mIOU: 0.413100
+2024-12-24 11:34:11,236 - Model - INFO - Save model...
+2024-12-24 11:34:11,236 - Model - INFO - Saving at log/part_seg/2024-12-24_11-20/checkpoints/best_model.pth
+2024-12-24 11:34:11,318 - Model - INFO - Saving model....
+2024-12-24 11:34:11,318 - Model - INFO - Best accuracy is: 0.94134
+2024-12-24 11:34:11,318 - Model - INFO - Best class avg mIOU is: 0.41310
+2024-12-24 11:34:11,318 - Model - INFO - Best inctance avg mIOU is: 0.41310
+2024-12-24 11:34:11,318 - Model - INFO - Epoch 43 (43/5000):
+2024-12-24 11:34:11,318 - Model - INFO - Learning rate:0.000250
+2024-12-24 11:34:29,367 - Model - INFO - Train accuracy is: 0.94174
+2024-12-24 11:34:31,362 - Model - INFO - eval mIoU of spine          0.416380
+2024-12-24 11:34:31,362 - Model - INFO - Epoch 43 test Accuracy: 0.943049  Class avg mIOU: 0.416380   Inctance avg mIOU: 0.416380
+2024-12-24 11:34:31,362 - Model - INFO - Save model...
+2024-12-24 11:34:31,363 - Model - INFO - Saving at log/part_seg/2024-12-24_11-20/checkpoints/best_model.pth
+2024-12-24 11:34:31,444 - Model - INFO - Saving model....
+2024-12-24 11:34:31,444 - Model - INFO - Best accuracy is: 0.94305
+2024-12-24 11:34:31,444 - Model - INFO - Best class avg mIOU is: 0.41638
+2024-12-24 11:34:31,444 - Model - INFO - Best inctance avg mIOU is: 0.41638
+2024-12-24 11:34:31,445 - Model - INFO - Epoch 44 (44/5000):
+2024-12-24 11:34:31,445 - Model - INFO - Learning rate:0.000250
+2024-12-24 11:34:49,329 - Model - INFO - Train accuracy is: 0.93918
+2024-12-24 11:34:51,384 - Model - INFO - eval mIoU of spine          0.410066
+2024-12-24 11:34:51,385 - Model - INFO - Epoch 44 test Accuracy: 0.941863  Class avg mIOU: 0.410066   Inctance avg mIOU: 0.410066
+2024-12-24 11:34:51,385 - Model - INFO - Best accuracy is: 0.94305
+2024-12-24 11:34:51,385 - Model - INFO - Best class avg mIOU is: 0.41638
+2024-12-24 11:34:51,385 - Model - INFO - Best inctance avg mIOU is: 0.41638
+2024-12-24 11:34:51,385 - Model - INFO - Epoch 45 (45/5000):
+2024-12-24 11:34:51,385 - Model - INFO - Learning rate:0.000250
+2024-12-24 11:35:09,374 - Model - INFO - Train accuracy is: 0.93901
+2024-12-24 11:35:11,401 - Model - INFO - eval mIoU of spine          0.409955
+2024-12-24 11:35:11,402 - Model - INFO - Epoch 45 test Accuracy: 0.942346  Class avg mIOU: 0.409955   Inctance avg mIOU: 0.409955
+2024-12-24 11:35:11,402 - Model - INFO - Best accuracy is: 0.94305
+2024-12-24 11:35:11,402 - Model - INFO - Best class avg mIOU is: 0.41638
+2024-12-24 11:35:11,402 - Model - INFO - Best inctance avg mIOU is: 0.41638
+2024-12-24 11:35:11,402 - Model - INFO - Epoch 46 (46/5000):
+2024-12-24 11:35:11,402 - Model - INFO - Learning rate:0.000250
+2024-12-24 11:35:29,677 - Model - INFO - Train accuracy is: 0.94235
+2024-12-24 11:35:31,694 - Model - INFO - eval mIoU of spine          0.417609
+2024-12-24 11:35:31,694 - Model - INFO - Epoch 46 test Accuracy: 0.943912  Class avg mIOU: 0.417609   Inctance avg mIOU: 0.417609
+2024-12-24 11:35:31,694 - Model - INFO - Save model...
+2024-12-24 11:35:31,694 - Model - INFO - Saving at log/part_seg/2024-12-24_11-20/checkpoints/best_model.pth
+2024-12-24 11:35:31,786 - Model - INFO - Saving model....
+2024-12-24 11:35:31,787 - Model - INFO - Best accuracy is: 0.94391
+2024-12-24 11:35:31,787 - Model - INFO - Best class avg mIOU is: 0.41761
+2024-12-24 11:35:31,787 - Model - INFO - Best inctance avg mIOU is: 0.41761
+2024-12-24 11:35:31,787 - Model - INFO - Epoch 47 (47/5000):
+2024-12-24 11:35:31,787 - Model - INFO - Learning rate:0.000250
+2024-12-24 11:35:49,536 - Model - INFO - Train accuracy is: 0.94054
+2024-12-24 11:35:51,553 - Model - INFO - eval mIoU of spine          0.398951
+2024-12-24 11:35:51,553 - Model - INFO - Epoch 47 test Accuracy: 0.937732  Class avg mIOU: 0.398951   Inctance avg mIOU: 0.398951
+2024-12-24 11:35:51,553 - Model - INFO - Best accuracy is: 0.94391
+2024-12-24 11:35:51,553 - Model - INFO - Best class avg mIOU is: 0.41761
+2024-12-24 11:35:51,553 - Model - INFO - Best inctance avg mIOU is: 0.41761
+2024-12-24 11:35:51,553 - Model - INFO - Epoch 48 (48/5000):
+2024-12-24 11:35:51,553 - Model - INFO - Learning rate:0.000250
+2024-12-24 11:36:09,347 - Model - INFO - Train accuracy is: 0.93906
+2024-12-24 11:36:11,327 - Model - INFO - eval mIoU of spine          0.422624
+2024-12-24 11:36:11,327 - Model - INFO - Epoch 48 test Accuracy: 0.944990  Class avg mIOU: 0.422624   Inctance avg mIOU: 0.422624
+2024-12-24 11:36:11,327 - Model - INFO - Save model...
+2024-12-24 11:36:11,327 - Model - INFO - Saving at log/part_seg/2024-12-24_11-20/checkpoints/best_model.pth
+2024-12-24 11:36:11,408 - Model - INFO - Saving model....
+2024-12-24 11:36:11,409 - Model - INFO - Best accuracy is: 0.94499
+2024-12-24 11:36:11,409 - Model - INFO - Best class avg mIOU is: 0.42262
+2024-12-24 11:36:11,409 - Model - INFO - Best inctance avg mIOU is: 0.42262
+2024-12-24 11:36:11,409 - Model - INFO - Epoch 49 (49/5000):
+2024-12-24 11:36:11,409 - Model - INFO - Learning rate:0.000250
+2024-12-24 11:36:29,293 - Model - INFO - Train accuracy is: 0.94137
+2024-12-24 11:36:31,384 - Model - INFO - eval mIoU of spine          0.419910
+2024-12-24 11:36:31,385 - Model - INFO - Epoch 49 test Accuracy: 0.945571  Class avg mIOU: 0.419910   Inctance avg mIOU: 0.419910
+2024-12-24 11:36:31,385 - Model - INFO - Best accuracy is: 0.94557
+2024-12-24 11:36:31,385 - Model - INFO - Best class avg mIOU is: 0.42262
+2024-12-24 11:36:31,385 - Model - INFO - Best inctance avg mIOU is: 0.42262
+2024-12-24 11:36:31,385 - Model - INFO - Epoch 50 (50/5000):
+2024-12-24 11:36:31,385 - Model - INFO - Learning rate:0.000250
+2024-12-24 11:36:49,231 - Model - INFO - Train accuracy is: 0.93824
+2024-12-24 11:36:51,237 - Model - INFO - eval mIoU of spine          0.408697
+2024-12-24 11:36:51,237 - Model - INFO - Epoch 50 test Accuracy: 0.940566  Class avg mIOU: 0.408697   Inctance avg mIOU: 0.408697
+2024-12-24 11:36:51,237 - Model - INFO - Best accuracy is: 0.94557
+2024-12-24 11:36:51,237 - Model - INFO - Best class avg mIOU is: 0.42262
+2024-12-24 11:36:51,237 - Model - INFO - Best inctance avg mIOU is: 0.42262
+2024-12-24 11:36:51,237 - Model - INFO - Epoch 51 (51/5000):
+2024-12-24 11:36:51,237 - Model - INFO - Learning rate:0.000250
+2024-12-24 11:37:08,653 - Model - INFO - Train accuracy is: 0.94122
+2024-12-24 11:37:10,698 - Model - INFO - eval mIoU of spine          0.418756
+2024-12-24 11:37:10,698 - Model - INFO - Epoch 51 test Accuracy: 0.942717  Class avg mIOU: 0.418756   Inctance avg mIOU: 0.418756
+2024-12-24 11:37:10,698 - Model - INFO - Best accuracy is: 0.94557
+2024-12-24 11:37:10,698 - Model - INFO - Best class avg mIOU is: 0.42262
+2024-12-24 11:37:10,698 - Model - INFO - Best inctance avg mIOU is: 0.42262
+2024-12-24 11:37:10,698 - Model - INFO - Epoch 52 (52/5000):
+2024-12-24 11:37:10,698 - Model - INFO - Learning rate:0.000250
+2024-12-24 11:37:28,956 - Model - INFO - Train accuracy is: 0.93993
+2024-12-24 11:37:31,001 - Model - INFO - eval mIoU of spine          0.404279
+2024-12-24 11:37:31,001 - Model - INFO - Epoch 52 test Accuracy: 0.939668  Class avg mIOU: 0.404279   Inctance avg mIOU: 0.404279
+2024-12-24 11:37:31,001 - Model - INFO - Best accuracy is: 0.94557
+2024-12-24 11:37:31,001 - Model - INFO - Best class avg mIOU is: 0.42262
+2024-12-24 11:37:31,001 - Model - INFO - Best inctance avg mIOU is: 0.42262
+2024-12-24 11:37:31,001 - Model - INFO - Epoch 53 (53/5000):
+2024-12-24 11:37:31,001 - Model - INFO - Learning rate:0.000250
+2024-12-24 11:37:48,985 - Model - INFO - Train accuracy is: 0.94158
+2024-12-24 11:37:50,963 - Model - INFO - eval mIoU of spine          0.409802
+2024-12-24 11:37:50,963 - Model - INFO - Epoch 53 test Accuracy: 0.940922  Class avg mIOU: 0.409802   Inctance avg mIOU: 0.409802
+2024-12-24 11:37:50,963 - Model - INFO - Best accuracy is: 0.94557
+2024-12-24 11:37:50,963 - Model - INFO - Best class avg mIOU is: 0.42262
+2024-12-24 11:37:50,963 - Model - INFO - Best inctance avg mIOU is: 0.42262
+2024-12-24 11:37:50,963 - Model - INFO - Epoch 54 (54/5000):
+2024-12-24 11:37:50,963 - Model - INFO - Learning rate:0.000250
+2024-12-24 11:38:09,222 - Model - INFO - Train accuracy is: 0.94295
+2024-12-24 11:38:11,293 - Model - INFO - eval mIoU of spine          0.421225
+2024-12-24 11:38:11,293 - Model - INFO - Epoch 54 test Accuracy: 0.945922  Class avg mIOU: 0.421225   Inctance avg mIOU: 0.421225
+2024-12-24 11:38:11,293 - Model - INFO - Best accuracy is: 0.94592
+2024-12-24 11:38:11,293 - Model - INFO - Best class avg mIOU is: 0.42262
+2024-12-24 11:38:11,294 - Model - INFO - Best inctance avg mIOU is: 0.42262
+2024-12-24 11:38:11,294 - Model - INFO - Epoch 55 (55/5000):
+2024-12-24 11:38:11,294 - Model - INFO - Learning rate:0.000250
+2024-12-24 11:38:29,445 - Model - INFO - Train accuracy is: 0.94350
+2024-12-24 11:38:31,434 - Model - INFO - eval mIoU of spine          0.432985
+2024-12-24 11:38:31,435 - Model - INFO - Epoch 55 test Accuracy: 0.949971  Class avg mIOU: 0.432985   Inctance avg mIOU: 0.432985
+2024-12-24 11:38:31,435 - Model - INFO - Save model...
+2024-12-24 11:38:31,435 - Model - INFO - Saving at log/part_seg/2024-12-24_11-20/checkpoints/best_model.pth
+2024-12-24 11:38:31,517 - Model - INFO - Saving model....
+2024-12-24 11:38:31,517 - Model - INFO - Best accuracy is: 0.94997
+2024-12-24 11:38:31,517 - Model - INFO - Best class avg mIOU is: 0.43299
+2024-12-24 11:38:31,517 - Model - INFO - Best inctance avg mIOU is: 0.43299
+2024-12-24 11:38:31,517 - Model - INFO - Epoch 56 (56/5000):
+2024-12-24 11:38:31,517 - Model - INFO - Learning rate:0.000250
+2024-12-24 11:38:49,369 - Model - INFO - Train accuracy is: 0.94297
+2024-12-24 11:38:51,317 - Model - INFO - eval mIoU of spine          0.411247
+2024-12-24 11:38:51,317 - Model - INFO - Epoch 56 test Accuracy: 0.942615  Class avg mIOU: 0.411247   Inctance avg mIOU: 0.411247
+2024-12-24 11:38:51,317 - Model - INFO - Best accuracy is: 0.94997
+2024-12-24 11:38:51,317 - Model - INFO - Best class avg mIOU is: 0.43299
+2024-12-24 11:38:51,317 - Model - INFO - Best inctance avg mIOU is: 0.43299
+2024-12-24 11:38:51,317 - Model - INFO - Epoch 57 (57/5000):
+2024-12-24 11:38:51,317 - Model - INFO - Learning rate:0.000250
+2024-12-24 11:39:09,404 - Model - INFO - Train accuracy is: 0.94445
+2024-12-24 11:39:11,435 - Model - INFO - eval mIoU of spine          0.420517
+2024-12-24 11:39:11,436 - Model - INFO - Epoch 57 test Accuracy: 0.943980  Class avg mIOU: 0.420517   Inctance avg mIOU: 0.420517
+2024-12-24 11:39:11,436 - Model - INFO - Best accuracy is: 0.94997
+2024-12-24 11:39:11,436 - Model - INFO - Best class avg mIOU is: 0.43299
+2024-12-24 11:39:11,436 - Model - INFO - Best inctance avg mIOU is: 0.43299
+2024-12-24 11:39:11,436 - Model - INFO - Epoch 58 (58/5000):
+2024-12-24 11:39:11,436 - Model - INFO - Learning rate:0.000250
+2024-12-24 11:39:29,395 - Model - INFO - Train accuracy is: 0.94051
+2024-12-24 11:39:31,351 - Model - INFO - eval mIoU of spine          0.427979
+2024-12-24 11:39:31,351 - Model - INFO - Epoch 58 test Accuracy: 0.941405  Class avg mIOU: 0.427979   Inctance avg mIOU: 0.427979
+2024-12-24 11:39:31,351 - Model - INFO - Best accuracy is: 0.94997
+2024-12-24 11:39:31,351 - Model - INFO - Best class avg mIOU is: 0.43299
+2024-12-24 11:39:31,351 - Model - INFO - Best inctance avg mIOU is: 0.43299
+2024-12-24 11:39:31,351 - Model - INFO - Epoch 59 (59/5000):
+2024-12-24 11:39:31,351 - Model - INFO - Learning rate:0.000250
+2024-12-24 11:39:49,075 - Model - INFO - Train accuracy is: 0.93661
+2024-12-24 11:39:51,187 - Model - INFO - eval mIoU of spine          0.409741
+2024-12-24 11:39:51,187 - Model - INFO - Epoch 59 test Accuracy: 0.941117  Class avg mIOU: 0.409741   Inctance avg mIOU: 0.409741
+2024-12-24 11:39:51,187 - Model - INFO - Best accuracy is: 0.94997
+2024-12-24 11:39:51,187 - Model - INFO - Best class avg mIOU is: 0.43299
+2024-12-24 11:39:51,187 - Model - INFO - Best inctance avg mIOU is: 0.43299
+2024-12-24 11:39:51,187 - Model - INFO - Epoch 60 (60/5000):
+2024-12-24 11:39:51,187 - Model - INFO - Learning rate:0.000250
+2024-12-24 11:40:09,731 - Model - INFO - Train accuracy is: 0.93647
+2024-12-24 11:40:11,684 - Model - INFO - eval mIoU of spine          0.424642
+2024-12-24 11:40:11,684 - Model - INFO - Epoch 60 test Accuracy: 0.942556  Class avg mIOU: 0.424642   Inctance avg mIOU: 0.424642
+2024-12-24 11:40:11,684 - Model - INFO - Best accuracy is: 0.94997
+2024-12-24 11:40:11,684 - Model - INFO - Best class avg mIOU is: 0.43299
+2024-12-24 11:40:11,684 - Model - INFO - Best inctance avg mIOU is: 0.43299
+2024-12-24 11:40:11,684 - Model - INFO - Epoch 61 (61/5000):
+2024-12-24 11:40:11,684 - Model - INFO - Learning rate:0.000125
+2024-12-24 11:40:29,309 - Model - INFO - Train accuracy is: 0.94234
+2024-12-24 11:40:31,361 - Model - INFO - eval mIoU of spine          0.415735
+2024-12-24 11:40:31,362 - Model - INFO - Epoch 61 test Accuracy: 0.941000  Class avg mIOU: 0.415735   Inctance avg mIOU: 0.415735
+2024-12-24 11:40:31,362 - Model - INFO - Best accuracy is: 0.94997
+2024-12-24 11:40:31,362 - Model - INFO - Best class avg mIOU is: 0.43299
+2024-12-24 11:40:31,362 - Model - INFO - Best inctance avg mIOU is: 0.43299
+2024-12-24 11:40:31,362 - Model - INFO - Epoch 62 (62/5000):
+2024-12-24 11:40:31,362 - Model - INFO - Learning rate:0.000125
+2024-12-24 11:40:49,260 - Model - INFO - Train accuracy is: 0.94291
+2024-12-24 11:40:51,240 - Model - INFO - eval mIoU of spine          0.426114
+2024-12-24 11:40:51,241 - Model - INFO - Epoch 62 test Accuracy: 0.948117  Class avg mIOU: 0.426114   Inctance avg mIOU: 0.426114
+2024-12-24 11:40:51,241 - Model - INFO - Best accuracy is: 0.94997
+2024-12-24 11:40:51,241 - Model - INFO - Best class avg mIOU is: 0.43299
+2024-12-24 11:40:51,241 - Model - INFO - Best inctance avg mIOU is: 0.43299
+2024-12-24 11:40:51,241 - Model - INFO - Epoch 63 (63/5000):
+2024-12-24 11:40:51,241 - Model - INFO - Learning rate:0.000125
+2024-12-24 11:41:08,937 - Model - INFO - Train accuracy is: 0.94555
+2024-12-24 11:41:10,944 - Model - INFO - eval mIoU of spine          0.420139
+2024-12-24 11:41:10,944 - Model - INFO - Epoch 63 test Accuracy: 0.943712  Class avg mIOU: 0.420139   Inctance avg mIOU: 0.420139
+2024-12-24 11:41:10,944 - Model - INFO - Best accuracy is: 0.94997
+2024-12-24 11:41:10,944 - Model - INFO - Best class avg mIOU is: 0.43299
+2024-12-24 11:41:10,944 - Model - INFO - Best inctance avg mIOU is: 0.43299
+2024-12-24 11:41:10,944 - Model - INFO - Epoch 64 (64/5000):
+2024-12-24 11:41:10,944 - Model - INFO - Learning rate:0.000125
+2024-12-24 11:41:28,805 - Model - INFO - Train accuracy is: 0.94498
+2024-12-24 11:41:30,867 - Model - INFO - eval mIoU of spine          0.422852
+2024-12-24 11:41:30,867 - Model - INFO - Epoch 64 test Accuracy: 0.946893  Class avg mIOU: 0.422852   Inctance avg mIOU: 0.422852
+2024-12-24 11:41:30,867 - Model - INFO - Best accuracy is: 0.94997
+2024-12-24 11:41:30,867 - Model - INFO - Best class avg mIOU is: 0.43299
+2024-12-24 11:41:30,867 - Model - INFO - Best inctance avg mIOU is: 0.43299
+2024-12-24 11:41:30,867 - Model - INFO - Epoch 65 (65/5000):
+2024-12-24 11:41:30,868 - Model - INFO - Learning rate:0.000125
+2024-12-24 11:41:48,597 - Model - INFO - Train accuracy is: 0.94490
+2024-12-24 11:41:50,549 - Model - INFO - eval mIoU of spine          0.429906
+2024-12-24 11:41:50,549 - Model - INFO - Epoch 65 test Accuracy: 0.947854  Class avg mIOU: 0.429906   Inctance avg mIOU: 0.429906
+2024-12-24 11:41:50,549 - Model - INFO - Best accuracy is: 0.94997
+2024-12-24 11:41:50,549 - Model - INFO - Best class avg mIOU is: 0.43299
+2024-12-24 11:41:50,549 - Model - INFO - Best inctance avg mIOU is: 0.43299
+2024-12-24 11:41:50,549 - Model - INFO - Epoch 66 (66/5000):
+2024-12-24 11:41:50,549 - Model - INFO - Learning rate:0.000125
+2024-12-24 11:42:08,613 - Model - INFO - Train accuracy is: 0.94514
+2024-12-24 11:42:10,627 - Model - INFO - eval mIoU of spine          0.423457
+2024-12-24 11:42:10,627 - Model - INFO - Epoch 66 test Accuracy: 0.945341  Class avg mIOU: 0.423457   Inctance avg mIOU: 0.423457
+2024-12-24 11:42:10,627 - Model - INFO - Best accuracy is: 0.94997
+2024-12-24 11:42:10,627 - Model - INFO - Best class avg mIOU is: 0.43299
+2024-12-24 11:42:10,627 - Model - INFO - Best inctance avg mIOU is: 0.43299
+2024-12-24 11:42:10,627 - Model - INFO - Epoch 67 (67/5000):
+2024-12-24 11:42:10,627 - Model - INFO - Learning rate:0.000125
+2024-12-24 11:42:28,608 - Model - INFO - Train accuracy is: 0.94685
+2024-12-24 11:42:30,581 - Model - INFO - eval mIoU of spine          0.431652
+2024-12-24 11:42:30,581 - Model - INFO - Epoch 67 test Accuracy: 0.950127  Class avg mIOU: 0.431652   Inctance avg mIOU: 0.431652
+2024-12-24 11:42:30,582 - Model - INFO - Best accuracy is: 0.95013
+2024-12-24 11:42:30,582 - Model - INFO - Best class avg mIOU is: 0.43299
+2024-12-24 11:42:30,582 - Model - INFO - Best inctance avg mIOU is: 0.43299
+2024-12-24 11:42:30,582 - Model - INFO - Epoch 68 (68/5000):
+2024-12-24 11:42:30,582 - Model - INFO - Learning rate:0.000125
+2024-12-24 11:42:48,530 - Model - INFO - Train accuracy is: 0.94593
+2024-12-24 11:42:50,502 - Model - INFO - eval mIoU of spine          0.432218
+2024-12-24 11:42:50,502 - Model - INFO - Epoch 68 test Accuracy: 0.950156  Class avg mIOU: 0.432218   Inctance avg mIOU: 0.432218
+2024-12-24 11:42:50,502 - Model - INFO - Best accuracy is: 0.95016
+2024-12-24 11:42:50,502 - Model - INFO - Best class avg mIOU is: 0.43299
+2024-12-24 11:42:50,502 - Model - INFO - Best inctance avg mIOU is: 0.43299
+2024-12-24 11:42:50,502 - Model - INFO - Epoch 69 (69/5000):
+2024-12-24 11:42:50,502 - Model - INFO - Learning rate:0.000125
+2024-12-24 11:43:08,582 - Model - INFO - Train accuracy is: 0.94604
+2024-12-24 11:43:10,561 - Model - INFO - eval mIoU of spine          0.434638
+2024-12-24 11:43:10,561 - Model - INFO - Epoch 69 test Accuracy: 0.949454  Class avg mIOU: 0.434638   Inctance avg mIOU: 0.434638
+2024-12-24 11:43:10,561 - Model - INFO - Save model...
+2024-12-24 11:43:10,561 - Model - INFO - Saving at log/part_seg/2024-12-24_11-20/checkpoints/best_model.pth
+2024-12-24 11:43:10,648 - Model - INFO - Saving model....
+2024-12-24 11:43:10,648 - Model - INFO - Best accuracy is: 0.95016
+2024-12-24 11:43:10,648 - Model - INFO - Best class avg mIOU is: 0.43464
+2024-12-24 11:43:10,648 - Model - INFO - Best inctance avg mIOU is: 0.43464
+2024-12-24 11:43:10,648 - Model - INFO - Epoch 70 (70/5000):
+2024-12-24 11:43:10,649 - Model - INFO - Learning rate:0.000125
+2024-12-24 11:43:28,689 - Model - INFO - Train accuracy is: 0.94630
+2024-12-24 11:43:30,740 - Model - INFO - eval mIoU of spine          0.419620
+2024-12-24 11:43:30,740 - Model - INFO - Epoch 70 test Accuracy: 0.946273  Class avg mIOU: 0.419620   Inctance avg mIOU: 0.419620
+2024-12-24 11:43:30,741 - Model - INFO - Best accuracy is: 0.95016
+2024-12-24 11:43:30,741 - Model - INFO - Best class avg mIOU is: 0.43464
+2024-12-24 11:43:30,741 - Model - INFO - Best inctance avg mIOU is: 0.43464
+2024-12-24 11:43:30,741 - Model - INFO - Epoch 71 (71/5000):
+2024-12-24 11:43:30,741 - Model - INFO - Learning rate:0.000125
+2024-12-24 11:43:48,857 - Model - INFO - Train accuracy is: 0.94670
+2024-12-24 11:43:50,845 - Model - INFO - eval mIoU of spine          0.436385
+2024-12-24 11:43:50,845 - Model - INFO - Epoch 71 test Accuracy: 0.950459  Class avg mIOU: 0.436385   Inctance avg mIOU: 0.436385
+2024-12-24 11:43:50,845 - Model - INFO - Save model...
+2024-12-24 11:43:50,845 - Model - INFO - Saving at log/part_seg/2024-12-24_11-20/checkpoints/best_model.pth
+2024-12-24 11:43:50,938 - Model - INFO - Saving model....
+2024-12-24 11:43:50,938 - Model - INFO - Best accuracy is: 0.95046
+2024-12-24 11:43:50,938 - Model - INFO - Best class avg mIOU is: 0.43639
+2024-12-24 11:43:50,938 - Model - INFO - Best inctance avg mIOU is: 0.43639
+2024-12-24 11:43:50,938 - Model - INFO - Epoch 72 (72/5000):
+2024-12-24 11:43:50,939 - Model - INFO - Learning rate:0.000125
+2024-12-24 11:44:09,183 - Model - INFO - Train accuracy is: 0.94690
+2024-12-24 11:44:11,214 - Model - INFO - eval mIoU of spine          0.430613
+2024-12-24 11:44:11,214 - Model - INFO - Epoch 72 test Accuracy: 0.947712  Class avg mIOU: 0.430613   Inctance avg mIOU: 0.430613
+2024-12-24 11:44:11,214 - Model - INFO - Best accuracy is: 0.95046
+2024-12-24 11:44:11,214 - Model - INFO - Best class avg mIOU is: 0.43639
+2024-12-24 11:44:11,214 - Model - INFO - Best inctance avg mIOU is: 0.43639
+2024-12-24 11:44:11,214 - Model - INFO - Epoch 73 (73/5000):
+2024-12-24 11:44:11,214 - Model - INFO - Learning rate:0.000125
+2024-12-24 11:44:28,950 - Model - INFO - Train accuracy is: 0.94842
+2024-12-24 11:44:30,949 - Model - INFO - eval mIoU of spine          0.447882
+2024-12-24 11:44:30,950 - Model - INFO - Epoch 73 test Accuracy: 0.954268  Class avg mIOU: 0.447882   Inctance avg mIOU: 0.447882
+2024-12-24 11:44:30,950 - Model - INFO - Save model...
+2024-12-24 11:44:30,950 - Model - INFO - Saving at log/part_seg/2024-12-24_11-20/checkpoints/best_model.pth
+2024-12-24 11:44:31,031 - Model - INFO - Saving model....
+2024-12-24 11:44:31,032 - Model - INFO - Best accuracy is: 0.95427
+2024-12-24 11:44:31,032 - Model - INFO - Best class avg mIOU is: 0.44788
+2024-12-24 11:44:31,032 - Model - INFO - Best inctance avg mIOU is: 0.44788
+2024-12-24 11:44:31,032 - Model - INFO - Epoch 74 (74/5000):
+2024-12-24 11:44:31,032 - Model - INFO - Learning rate:0.000125
+2024-12-24 11:44:48,886 - Model - INFO - Train accuracy is: 0.94793
+2024-12-24 11:44:50,892 - Model - INFO - eval mIoU of spine          0.442199
+2024-12-24 11:44:50,892 - Model - INFO - Epoch 74 test Accuracy: 0.952576  Class avg mIOU: 0.442199   Inctance avg mIOU: 0.442199
+2024-12-24 11:44:50,892 - Model - INFO - Best accuracy is: 0.95427
+2024-12-24 11:44:50,892 - Model - INFO - Best class avg mIOU is: 0.44788
+2024-12-24 11:44:50,892 - Model - INFO - Best inctance avg mIOU is: 0.44788
+2024-12-24 11:44:50,892 - Model - INFO - Epoch 75 (75/5000):
+2024-12-24 11:44:50,892 - Model - INFO - Learning rate:0.000125
+2024-12-24 11:45:08,596 - Model - INFO - Train accuracy is: 0.94969
+2024-12-24 11:45:10,618 - Model - INFO - eval mIoU of spine          0.428612
+2024-12-24 11:45:10,618 - Model - INFO - Epoch 75 test Accuracy: 0.949068  Class avg mIOU: 0.428612   Inctance avg mIOU: 0.428612
+2024-12-24 11:45:10,618 - Model - INFO - Best accuracy is: 0.95427
+2024-12-24 11:45:10,618 - Model - INFO - Best class avg mIOU is: 0.44788
+2024-12-24 11:45:10,618 - Model - INFO - Best inctance avg mIOU is: 0.44788
+2024-12-24 11:45:10,618 - Model - INFO - Epoch 76 (76/5000):
+2024-12-24 11:45:10,618 - Model - INFO - Learning rate:0.000125
+2024-12-24 11:45:28,629 - Model - INFO - Train accuracy is: 0.94749
+2024-12-24 11:45:30,580 - Model - INFO - eval mIoU of spine          0.428551
+2024-12-24 11:45:30,580 - Model - INFO - Epoch 76 test Accuracy: 0.949566  Class avg mIOU: 0.428551   Inctance avg mIOU: 0.428551
+2024-12-24 11:45:30,580 - Model - INFO - Best accuracy is: 0.95427
+2024-12-24 11:45:30,580 - Model - INFO - Best class avg mIOU is: 0.44788
+2024-12-24 11:45:30,580 - Model - INFO - Best inctance avg mIOU is: 0.44788
+2024-12-24 11:45:30,580 - Model - INFO - Epoch 77 (77/5000):
+2024-12-24 11:45:30,580 - Model - INFO - Learning rate:0.000125
+2024-12-24 11:45:48,936 - Model - INFO - Train accuracy is: 0.94776
+2024-12-24 11:45:50,925 - Model - INFO - eval mIoU of spine          0.443920
+2024-12-24 11:45:50,926 - Model - INFO - Epoch 77 test Accuracy: 0.951834  Class avg mIOU: 0.443920   Inctance avg mIOU: 0.443920
+2024-12-24 11:45:50,926 - Model - INFO - Best accuracy is: 0.95427
+2024-12-24 11:45:50,926 - Model - INFO - Best class avg mIOU is: 0.44788
+2024-12-24 11:45:50,926 - Model - INFO - Best inctance avg mIOU is: 0.44788
+2024-12-24 11:45:50,926 - Model - INFO - Epoch 78 (78/5000):
+2024-12-24 11:45:50,926 - Model - INFO - Learning rate:0.000125
+2024-12-24 11:46:08,949 - Model - INFO - Train accuracy is: 0.94877
+2024-12-24 11:46:10,980 - Model - INFO - eval mIoU of spine          0.449438
+2024-12-24 11:46:10,980 - Model - INFO - Epoch 78 test Accuracy: 0.955459  Class avg mIOU: 0.449438   Inctance avg mIOU: 0.449438
+2024-12-24 11:46:10,980 - Model - INFO - Save model...
+2024-12-24 11:46:10,981 - Model - INFO - Saving at log/part_seg/2024-12-24_11-20/checkpoints/best_model.pth
+2024-12-24 11:46:11,080 - Model - INFO - Saving model....
+2024-12-24 11:46:11,080 - Model - INFO - Best accuracy is: 0.95546
+2024-12-24 11:46:11,080 - Model - INFO - Best class avg mIOU is: 0.44944
+2024-12-24 11:46:11,080 - Model - INFO - Best inctance avg mIOU is: 0.44944
+2024-12-24 11:46:11,080 - Model - INFO - Epoch 79 (79/5000):
+2024-12-24 11:46:11,080 - Model - INFO - Learning rate:0.000125
+2024-12-24 11:46:29,155 - Model - INFO - Train accuracy is: 0.94892
+2024-12-24 11:46:31,234 - Model - INFO - eval mIoU of spine          0.433447
+2024-12-24 11:46:31,234 - Model - INFO - Epoch 79 test Accuracy: 0.949810  Class avg mIOU: 0.433447   Inctance avg mIOU: 0.433447
+2024-12-24 11:46:31,234 - Model - INFO - Best accuracy is: 0.95546
+2024-12-24 11:46:31,234 - Model - INFO - Best class avg mIOU is: 0.44944
+2024-12-24 11:46:31,234 - Model - INFO - Best inctance avg mIOU is: 0.44944
+2024-12-24 11:46:31,234 - Model - INFO - Epoch 80 (80/5000):
+2024-12-24 11:46:31,234 - Model - INFO - Learning rate:0.000125
+2024-12-24 11:46:49,430 - Model - INFO - Train accuracy is: 0.94627
+2024-12-24 11:46:51,452 - Model - INFO - eval mIoU of spine          0.423329
+2024-12-24 11:46:51,452 - Model - INFO - Epoch 80 test Accuracy: 0.947615  Class avg mIOU: 0.423329   Inctance avg mIOU: 0.423329
+2024-12-24 11:46:51,452 - Model - INFO - Best accuracy is: 0.95546
+2024-12-24 11:46:51,452 - Model - INFO - Best class avg mIOU is: 0.44944
+2024-12-24 11:46:51,452 - Model - INFO - Best inctance avg mIOU is: 0.44944
+2024-12-24 11:46:51,452 - Model - INFO - Epoch 81 (81/5000):
+2024-12-24 11:46:51,452 - Model - INFO - Learning rate:0.000063
+2024-12-24 11:47:09,441 - Model - INFO - Train accuracy is: 0.94807
+2024-12-24 11:47:11,534 - Model - INFO - eval mIoU of spine          0.446962
+2024-12-24 11:47:11,534 - Model - INFO - Epoch 81 test Accuracy: 0.952785  Class avg mIOU: 0.446962   Inctance avg mIOU: 0.446962
+2024-12-24 11:47:11,534 - Model - INFO - Best accuracy is: 0.95546
+2024-12-24 11:47:11,535 - Model - INFO - Best class avg mIOU is: 0.44944
+2024-12-24 11:47:11,535 - Model - INFO - Best inctance avg mIOU is: 0.44944
+2024-12-24 11:47:11,535 - Model - INFO - Epoch 82 (82/5000):
+2024-12-24 11:47:11,535 - Model - INFO - Learning rate:0.000063
+2024-12-24 11:47:29,631 - Model - INFO - Train accuracy is: 0.95004
+2024-12-24 11:47:31,659 - Model - INFO - eval mIoU of spine          0.446492
+2024-12-24 11:47:31,659 - Model - INFO - Epoch 82 test Accuracy: 0.951883  Class avg mIOU: 0.446492   Inctance avg mIOU: 0.446492
+2024-12-24 11:47:31,659 - Model - INFO - Best accuracy is: 0.95546
+2024-12-24 11:47:31,659 - Model - INFO - Best class avg mIOU is: 0.44944
+2024-12-24 11:47:31,659 - Model - INFO - Best inctance avg mIOU is: 0.44944
+2024-12-24 11:47:31,659 - Model - INFO - Epoch 83 (83/5000):
+2024-12-24 11:47:31,659 - Model - INFO - Learning rate:0.000063
+2024-12-24 11:47:49,584 - Model - INFO - Train accuracy is: 0.94974
+2024-12-24 11:47:51,624 - Model - INFO - eval mIoU of spine          0.441430
+2024-12-24 11:47:51,624 - Model - INFO - Epoch 83 test Accuracy: 0.952727  Class avg mIOU: 0.441430   Inctance avg mIOU: 0.441430
+2024-12-24 11:47:51,624 - Model - INFO - Best accuracy is: 0.95546
+2024-12-24 11:47:51,624 - Model - INFO - Best class avg mIOU is: 0.44944
+2024-12-24 11:47:51,624 - Model - INFO - Best inctance avg mIOU is: 0.44944
+2024-12-24 11:47:51,624 - Model - INFO - Epoch 84 (84/5000):
+2024-12-24 11:47:51,624 - Model - INFO - Learning rate:0.000063
+2024-12-24 11:48:09,565 - Model - INFO - Train accuracy is: 0.95013
+2024-12-24 11:48:11,597 - Model - INFO - eval mIoU of spine          0.439418
+2024-12-24 11:48:11,597 - Model - INFO - Epoch 84 test Accuracy: 0.950249  Class avg mIOU: 0.439418   Inctance avg mIOU: 0.439418
+2024-12-24 11:48:11,597 - Model - INFO - Best accuracy is: 0.95546
+2024-12-24 11:48:11,597 - Model - INFO - Best class avg mIOU is: 0.44944
+2024-12-24 11:48:11,597 - Model - INFO - Best inctance avg mIOU is: 0.44944
+2024-12-24 11:48:11,597 - Model - INFO - Epoch 85 (85/5000):
+2024-12-24 11:48:11,597 - Model - INFO - Learning rate:0.000063
+2024-12-24 11:48:29,691 - Model - INFO - Train accuracy is: 0.95042
+2024-12-24 11:48:31,719 - Model - INFO - eval mIoU of spine          0.435549
+2024-12-24 11:48:31,719 - Model - INFO - Epoch 85 test Accuracy: 0.950156  Class avg mIOU: 0.435549   Inctance avg mIOU: 0.435549
+2024-12-24 11:48:31,720 - Model - INFO - Best accuracy is: 0.95546
+2024-12-24 11:48:31,720 - Model - INFO - Best class avg mIOU is: 0.44944
+2024-12-24 11:48:31,720 - Model - INFO - Best inctance avg mIOU is: 0.44944
+2024-12-24 11:48:31,720 - Model - INFO - Epoch 86 (86/5000):
+2024-12-24 11:48:31,720 - Model - INFO - Learning rate:0.000063
+2024-12-24 11:48:49,313 - Model - INFO - Train accuracy is: 0.95102
+2024-12-24 11:48:51,383 - Model - INFO - eval mIoU of spine          0.437543
+2024-12-24 11:48:51,383 - Model - INFO - Epoch 86 test Accuracy: 0.951912  Class avg mIOU: 0.437543   Inctance avg mIOU: 0.437543
+2024-12-24 11:48:51,383 - Model - INFO - Best accuracy is: 0.95546
+2024-12-24 11:48:51,383 - Model - INFO - Best class avg mIOU is: 0.44944
+2024-12-24 11:48:51,383 - Model - INFO - Best inctance avg mIOU is: 0.44944
+2024-12-24 11:48:51,383 - Model - INFO - Epoch 87 (87/5000):
+2024-12-24 11:48:51,383 - Model - INFO - Learning rate:0.000063
+2024-12-24 11:49:09,354 - Model - INFO - Train accuracy is: 0.95096
+2024-12-24 11:49:11,372 - Model - INFO - eval mIoU of spine          0.434359
+2024-12-24 11:49:11,372 - Model - INFO - Epoch 87 test Accuracy: 0.952132  Class avg mIOU: 0.434359   Inctance avg mIOU: 0.434359
+2024-12-24 11:49:11,372 - Model - INFO - Best accuracy is: 0.95546
+2024-12-24 11:49:11,372 - Model - INFO - Best class avg mIOU is: 0.44944
+2024-12-24 11:49:11,372 - Model - INFO - Best inctance avg mIOU is: 0.44944
+2024-12-24 11:49:11,372 - Model - INFO - Epoch 88 (88/5000):
+2024-12-24 11:49:11,372 - Model - INFO - Learning rate:0.000063
+2024-12-24 11:49:29,714 - Model - INFO - Train accuracy is: 0.95161
+2024-12-24 11:49:31,754 - Model - INFO - eval mIoU of spine          0.440956
+2024-12-24 11:49:31,754 - Model - INFO - Epoch 88 test Accuracy: 0.952449  Class avg mIOU: 0.440956   Inctance avg mIOU: 0.440956
+2024-12-24 11:49:31,754 - Model - INFO - Best accuracy is: 0.95546
+2024-12-24 11:49:31,754 - Model - INFO - Best class avg mIOU is: 0.44944
+2024-12-24 11:49:31,754 - Model - INFO - Best inctance avg mIOU is: 0.44944
+2024-12-24 11:49:31,754 - Model - INFO - Epoch 89 (89/5000):
+2024-12-24 11:49:31,754 - Model - INFO - Learning rate:0.000063
+2024-12-24 11:49:49,785 - Model - INFO - Train accuracy is: 0.95052
+2024-12-24 11:49:51,821 - Model - INFO - eval mIoU of spine          0.450376
+2024-12-24 11:49:51,821 - Model - INFO - Epoch 89 test Accuracy: 0.955195  Class avg mIOU: 0.450376   Inctance avg mIOU: 0.450376
+2024-12-24 11:49:51,821 - Model - INFO - Save model...
+2024-12-24 11:49:51,821 - Model - INFO - Saving at log/part_seg/2024-12-24_11-20/checkpoints/best_model.pth
+2024-12-24 11:49:51,903 - Model - INFO - Saving model....
+2024-12-24 11:49:51,903 - Model - INFO - Best accuracy is: 0.95546
+2024-12-24 11:49:51,903 - Model - INFO - Best class avg mIOU is: 0.45038
+2024-12-24 11:49:51,903 - Model - INFO - Best inctance avg mIOU is: 0.45038
+2024-12-24 11:49:51,903 - Model - INFO - Epoch 90 (90/5000):
+2024-12-24 11:49:51,903 - Model - INFO - Learning rate:0.000063
+2024-12-24 11:50:09,704 - Model - INFO - Train accuracy is: 0.95032
+2024-12-24 11:50:11,779 - Model - INFO - eval mIoU of spine          0.448375
+2024-12-24 11:50:11,780 - Model - INFO - Epoch 90 test Accuracy: 0.953937  Class avg mIOU: 0.448375   Inctance avg mIOU: 0.448375
+2024-12-24 11:50:11,780 - Model - INFO - Best accuracy is: 0.95546
+2024-12-24 11:50:11,780 - Model - INFO - Best class avg mIOU is: 0.45038
+2024-12-24 11:50:11,780 - Model - INFO - Best inctance avg mIOU is: 0.45038
+2024-12-24 11:50:11,780 - Model - INFO - Epoch 91 (91/5000):
+2024-12-24 11:50:11,780 - Model - INFO - Learning rate:0.000063
+2024-12-24 11:50:29,578 - Model - INFO - Train accuracy is: 0.94976
+2024-12-24 11:50:31,644 - Model - INFO - eval mIoU of spine          0.432114
+2024-12-24 11:50:31,644 - Model - INFO - Epoch 91 test Accuracy: 0.950322  Class avg mIOU: 0.432114   Inctance avg mIOU: 0.432114
+2024-12-24 11:50:31,644 - Model - INFO - Best accuracy is: 0.95546
+2024-12-24 11:50:31,644 - Model - INFO - Best class avg mIOU is: 0.45038
+2024-12-24 11:50:31,644 - Model - INFO - Best inctance avg mIOU is: 0.45038
+2024-12-24 11:50:31,644 - Model - INFO - Epoch 92 (92/5000):
+2024-12-24 11:50:31,644 - Model - INFO - Learning rate:0.000063
+2024-12-24 11:50:49,404 - Model - INFO - Train accuracy is: 0.95077
+2024-12-24 11:50:51,431 - Model - INFO - eval mIoU of spine          0.435499
+2024-12-24 11:50:51,431 - Model - INFO - Epoch 92 test Accuracy: 0.950595  Class avg mIOU: 0.435499   Inctance avg mIOU: 0.435499
+2024-12-24 11:50:51,431 - Model - INFO - Best accuracy is: 0.95546
+2024-12-24 11:50:51,431 - Model - INFO - Best class avg mIOU is: 0.45038
+2024-12-24 11:50:51,431 - Model - INFO - Best inctance avg mIOU is: 0.45038
+2024-12-24 11:50:51,431 - Model - INFO - Epoch 93 (93/5000):
+2024-12-24 11:50:51,431 - Model - INFO - Learning rate:0.000063
+2024-12-24 11:51:09,163 - Model - INFO - Train accuracy is: 0.95000
+2024-12-24 11:51:11,159 - Model - INFO - eval mIoU of spine          0.428146
+2024-12-24 11:51:11,159 - Model - INFO - Epoch 93 test Accuracy: 0.948117  Class avg mIOU: 0.428146   Inctance avg mIOU: 0.428146
+2024-12-24 11:51:11,159 - Model - INFO - Best accuracy is: 0.95546
+2024-12-24 11:51:11,159 - Model - INFO - Best class avg mIOU is: 0.45038
+2024-12-24 11:51:11,159 - Model - INFO - Best inctance avg mIOU is: 0.45038
+2024-12-24 11:51:11,159 - Model - INFO - Epoch 94 (94/5000):
+2024-12-24 11:51:11,159 - Model - INFO - Learning rate:0.000063
+2024-12-24 11:51:28,852 - Model - INFO - Train accuracy is: 0.95039
+2024-12-24 11:51:30,865 - Model - INFO - eval mIoU of spine          0.445524
+2024-12-24 11:51:30,866 - Model - INFO - Epoch 94 test Accuracy: 0.954468  Class avg mIOU: 0.445524   Inctance avg mIOU: 0.445524
+2024-12-24 11:51:30,866 - Model - INFO - Best accuracy is: 0.95546
+2024-12-24 11:51:30,866 - Model - INFO - Best class avg mIOU is: 0.45038
+2024-12-24 11:51:30,866 - Model - INFO - Best inctance avg mIOU is: 0.45038
+2024-12-24 11:51:30,866 - Model - INFO - Epoch 95 (95/5000):
+2024-12-24 11:51:30,866 - Model - INFO - Learning rate:0.000063
+2024-12-24 11:51:49,534 - Model - INFO - Train accuracy is: 0.95161
+2024-12-24 11:51:51,582 - Model - INFO - eval mIoU of spine          0.445561
+2024-12-24 11:51:51,582 - Model - INFO - Epoch 95 test Accuracy: 0.953410  Class avg mIOU: 0.445561   Inctance avg mIOU: 0.445561
+2024-12-24 11:51:51,582 - Model - INFO - Best accuracy is: 0.95546
+2024-12-24 11:51:51,582 - Model - INFO - Best class avg mIOU is: 0.45038
+2024-12-24 11:51:51,582 - Model - INFO - Best inctance avg mIOU is: 0.45038
+2024-12-24 11:51:51,582 - Model - INFO - Epoch 96 (96/5000):
+2024-12-24 11:51:51,582 - Model - INFO - Learning rate:0.000063
+2024-12-24 11:52:09,272 - Model - INFO - Train accuracy is: 0.94961
+2024-12-24 11:52:11,289 - Model - INFO - eval mIoU of spine          0.451014
+2024-12-24 11:52:11,289 - Model - INFO - Epoch 96 test Accuracy: 0.954537  Class avg mIOU: 0.451014   Inctance avg mIOU: 0.451014
+2024-12-24 11:52:11,289 - Model - INFO - Save model...
+2024-12-24 11:52:11,289 - Model - INFO - Saving at log/part_seg/2024-12-24_11-20/checkpoints/best_model.pth
+2024-12-24 11:52:11,377 - Model - INFO - Saving model....
+2024-12-24 11:52:11,377 - Model - INFO - Best accuracy is: 0.95546
+2024-12-24 11:52:11,378 - Model - INFO - Best class avg mIOU is: 0.45101
+2024-12-24 11:52:11,378 - Model - INFO - Best inctance avg mIOU is: 0.45101
+2024-12-24 11:52:11,378 - Model - INFO - Epoch 97 (97/5000):
+2024-12-24 11:52:11,378 - Model - INFO - Learning rate:0.000063
+2024-12-24 11:52:29,237 - Model - INFO - Train accuracy is: 0.95110
+2024-12-24 11:52:31,205 - Model - INFO - eval mIoU of spine          0.435431
+2024-12-24 11:52:31,205 - Model - INFO - Epoch 97 test Accuracy: 0.951971  Class avg mIOU: 0.435431   Inctance avg mIOU: 0.435431
+2024-12-24 11:52:31,205 - Model - INFO - Best accuracy is: 0.95546
+2024-12-24 11:52:31,205 - Model - INFO - Best class avg mIOU is: 0.45101
+2024-12-24 11:52:31,205 - Model - INFO - Best inctance avg mIOU is: 0.45101
+2024-12-24 11:52:31,205 - Model - INFO - Epoch 98 (98/5000):
+2024-12-24 11:52:31,205 - Model - INFO - Learning rate:0.000063
+2024-12-24 11:52:49,403 - Model - INFO - Train accuracy is: 0.95155
+2024-12-24 11:52:51,367 - Model - INFO - eval mIoU of spine          0.433952
+2024-12-24 11:52:51,368 - Model - INFO - Epoch 98 test Accuracy: 0.950498  Class avg mIOU: 0.433952   Inctance avg mIOU: 0.433952
+2024-12-24 11:52:51,368 - Model - INFO - Best accuracy is: 0.95546
+2024-12-24 11:52:51,368 - Model - INFO - Best class avg mIOU is: 0.45101
+2024-12-24 11:52:51,368 - Model - INFO - Best inctance avg mIOU is: 0.45101
+2024-12-24 11:52:51,368 - Model - INFO - Epoch 99 (99/5000):
+2024-12-24 11:52:51,368 - Model - INFO - Learning rate:0.000063
+2024-12-24 11:53:09,175 - Model - INFO - Train accuracy is: 0.95058
+2024-12-24 11:53:11,166 - Model - INFO - eval mIoU of spine          0.442925
+2024-12-24 11:53:11,166 - Model - INFO - Epoch 99 test Accuracy: 0.952337  Class avg mIOU: 0.442925   Inctance avg mIOU: 0.442925
+2024-12-24 11:53:11,167 - Model - INFO - Best accuracy is: 0.95546
+2024-12-24 11:53:11,167 - Model - INFO - Best class avg mIOU is: 0.45101
+2024-12-24 11:53:11,167 - Model - INFO - Best inctance avg mIOU is: 0.45101
+2024-12-24 11:53:11,167 - Model - INFO - Epoch 100 (100/5000):
+2024-12-24 11:53:11,167 - Model - INFO - Learning rate:0.000063
+2024-12-24 11:53:29,263 - Model - INFO - Train accuracy is: 0.95155
+2024-12-24 11:53:31,298 - Model - INFO - eval mIoU of spine          0.443898
+2024-12-24 11:53:31,298 - Model - INFO - Epoch 100 test Accuracy: 0.953332  Class avg mIOU: 0.443898   Inctance avg mIOU: 0.443898
+2024-12-24 11:53:31,298 - Model - INFO - Best accuracy is: 0.95546
+2024-12-24 11:53:31,298 - Model - INFO - Best class avg mIOU is: 0.45101
+2024-12-24 11:53:31,298 - Model - INFO - Best inctance avg mIOU is: 0.45101
+2024-12-24 11:53:31,298 - Model - INFO - Epoch 101 (101/5000):
+2024-12-24 11:53:31,298 - Model - INFO - Learning rate:0.000031
+2024-12-24 11:53:49,331 - Model - INFO - Train accuracy is: 0.95125
+2024-12-24 11:53:51,309 - Model - INFO - eval mIoU of spine          0.444492
+2024-12-24 11:53:51,309 - Model - INFO - Epoch 101 test Accuracy: 0.953800  Class avg mIOU: 0.444492   Inctance avg mIOU: 0.444492
+2024-12-24 11:53:51,309 - Model - INFO - Best accuracy is: 0.95546
+2024-12-24 11:53:51,309 - Model - INFO - Best class avg mIOU is: 0.45101
+2024-12-24 11:53:51,309 - Model - INFO - Best inctance avg mIOU is: 0.45101
+2024-12-24 11:53:51,309 - Model - INFO - Epoch 102 (102/5000):
+2024-12-24 11:53:51,309 - Model - INFO - Learning rate:0.000031
+2024-12-24 11:54:08,933 - Model - INFO - Train accuracy is: 0.95172
+2024-12-24 11:54:10,901 - Model - INFO - eval mIoU of spine          0.451737
+2024-12-24 11:54:10,902 - Model - INFO - Epoch 102 test Accuracy: 0.955580  Class avg mIOU: 0.451737   Inctance avg mIOU: 0.451737
+2024-12-24 11:54:10,902 - Model - INFO - Save model...
+2024-12-24 11:54:10,902 - Model - INFO - Saving at log/part_seg/2024-12-24_11-20/checkpoints/best_model.pth
+2024-12-24 11:54:10,998 - Model - INFO - Saving model....
+2024-12-24 11:54:10,998 - Model - INFO - Best accuracy is: 0.95558
+2024-12-24 11:54:10,998 - Model - INFO - Best class avg mIOU is: 0.45174
+2024-12-24 11:54:10,998 - Model - INFO - Best inctance avg mIOU is: 0.45174
+2024-12-24 11:54:10,998 - Model - INFO - Epoch 103 (103/5000):
+2024-12-24 11:54:10,998 - Model - INFO - Learning rate:0.000031
+2024-12-24 11:54:29,093 - Model - INFO - Train accuracy is: 0.95221
+2024-12-24 11:54:31,166 - Model - INFO - eval mIoU of spine          0.448329
+2024-12-24 11:54:31,166 - Model - INFO - Epoch 103 test Accuracy: 0.955249  Class avg mIOU: 0.448329   Inctance avg mIOU: 0.448329
+2024-12-24 11:54:31,166 - Model - INFO - Best accuracy is: 0.95558
+2024-12-24 11:54:31,166 - Model - INFO - Best class avg mIOU is: 0.45174
+2024-12-24 11:54:31,166 - Model - INFO - Best inctance avg mIOU is: 0.45174
+2024-12-24 11:54:31,166 - Model - INFO - Epoch 104 (104/5000):
+2024-12-24 11:54:31,166 - Model - INFO - Learning rate:0.000031
+2024-12-24 11:54:49,098 - Model - INFO - Train accuracy is: 0.95266
+2024-12-24 11:54:51,122 - Model - INFO - eval mIoU of spine          0.443078
+2024-12-24 11:54:51,122 - Model - INFO - Epoch 104 test Accuracy: 0.953449  Class avg mIOU: 0.443078   Inctance avg mIOU: 0.443078
+2024-12-24 11:54:51,122 - Model - INFO - Best accuracy is: 0.95558
+2024-12-24 11:54:51,122 - Model - INFO - Best class avg mIOU is: 0.45174
+2024-12-24 11:54:51,122 - Model - INFO - Best inctance avg mIOU is: 0.45174
+2024-12-24 11:54:51,122 - Model - INFO - Epoch 105 (105/5000):
+2024-12-24 11:54:51,122 - Model - INFO - Learning rate:0.000031
+2024-12-24 11:55:08,941 - Model - INFO - Train accuracy is: 0.95331
+2024-12-24 11:55:10,939 - Model - INFO - eval mIoU of spine          0.448117
+2024-12-24 11:55:10,939 - Model - INFO - Epoch 105 test Accuracy: 0.954878  Class avg mIOU: 0.448117   Inctance avg mIOU: 0.448117
+2024-12-24 11:55:10,939 - Model - INFO - Best accuracy is: 0.95558
+2024-12-24 11:55:10,939 - Model - INFO - Best class avg mIOU is: 0.45174
+2024-12-24 11:55:10,939 - Model - INFO - Best inctance avg mIOU is: 0.45174
+2024-12-24 11:55:10,939 - Model - INFO - Epoch 106 (106/5000):
+2024-12-24 11:55:10,939 - Model - INFO - Learning rate:0.000031
+2024-12-24 11:55:28,789 - Model - INFO - Train accuracy is: 0.95294
+2024-12-24 11:55:30,728 - Model - INFO - eval mIoU of spine          0.444315
+2024-12-24 11:55:30,729 - Model - INFO - Epoch 106 test Accuracy: 0.953824  Class avg mIOU: 0.444315   Inctance avg mIOU: 0.444315
+2024-12-24 11:55:30,729 - Model - INFO - Best accuracy is: 0.95558
+2024-12-24 11:55:30,729 - Model - INFO - Best class avg mIOU is: 0.45174
+2024-12-24 11:55:30,729 - Model - INFO - Best inctance avg mIOU is: 0.45174
+2024-12-24 11:55:30,729 - Model - INFO - Epoch 107 (107/5000):
+2024-12-24 11:55:30,729 - Model - INFO - Learning rate:0.000031
+2024-12-24 11:55:48,798 - Model - INFO - Train accuracy is: 0.95377
+2024-12-24 11:55:50,762 - Model - INFO - eval mIoU of spine          0.444634
+2024-12-24 11:55:50,762 - Model - INFO - Epoch 107 test Accuracy: 0.953824  Class avg mIOU: 0.444634   Inctance avg mIOU: 0.444634
+2024-12-24 11:55:50,762 - Model - INFO - Best accuracy is: 0.95558
+2024-12-24 11:55:50,762 - Model - INFO - Best class avg mIOU is: 0.45174
+2024-12-24 11:55:50,762 - Model - INFO - Best inctance avg mIOU is: 0.45174
+2024-12-24 11:55:50,762 - Model - INFO - Epoch 108 (108/5000):
+2024-12-24 11:55:50,762 - Model - INFO - Learning rate:0.000031
+2024-12-24 11:56:08,671 - Model - INFO - Train accuracy is: 0.95320
+2024-12-24 11:56:10,681 - Model - INFO - eval mIoU of spine          0.444883
+2024-12-24 11:56:10,682 - Model - INFO - Epoch 108 test Accuracy: 0.954673  Class avg mIOU: 0.444883   Inctance avg mIOU: 0.444883
+2024-12-24 11:56:10,682 - Model - INFO - Best accuracy is: 0.95558
+2024-12-24 11:56:10,682 - Model - INFO - Best class avg mIOU is: 0.45174
+2024-12-24 11:56:10,682 - Model - INFO - Best inctance avg mIOU is: 0.45174
+2024-12-24 11:56:10,682 - Model - INFO - Epoch 109 (109/5000):
+2024-12-24 11:56:10,682 - Model - INFO - Learning rate:0.000031
+2024-12-24 11:56:28,282 - Model - INFO - Train accuracy is: 0.95245
+2024-12-24 11:56:30,281 - Model - INFO - eval mIoU of spine          0.451096
+2024-12-24 11:56:30,282 - Model - INFO - Epoch 109 test Accuracy: 0.953951  Class avg mIOU: 0.451096   Inctance avg mIOU: 0.451096
+2024-12-24 11:56:30,282 - Model - INFO - Best accuracy is: 0.95558
+2024-12-24 11:56:30,282 - Model - INFO - Best class avg mIOU is: 0.45174
+2024-12-24 11:56:30,282 - Model - INFO - Best inctance avg mIOU is: 0.45174
+2024-12-24 11:56:30,282 - Model - INFO - Epoch 110 (110/5000):
+2024-12-24 11:56:30,282 - Model - INFO - Learning rate:0.000031
+2024-12-24 11:56:47,934 - Model - INFO - Train accuracy is: 0.95269
+2024-12-24 11:56:49,945 - Model - INFO - eval mIoU of spine          0.448138
+2024-12-24 11:56:49,945 - Model - INFO - Epoch 110 test Accuracy: 0.954488  Class avg mIOU: 0.448138   Inctance avg mIOU: 0.448138
+2024-12-24 11:56:49,945 - Model - INFO - Best accuracy is: 0.95558
+2024-12-24 11:56:49,945 - Model - INFO - Best class avg mIOU is: 0.45174
+2024-12-24 11:56:49,945 - Model - INFO - Best inctance avg mIOU is: 0.45174
+2024-12-24 11:56:49,945 - Model - INFO - Epoch 111 (111/5000):
+2024-12-24 11:56:49,945 - Model - INFO - Learning rate:0.000031
+2024-12-24 11:57:08,193 - Model - INFO - Train accuracy is: 0.95253
+2024-12-24 11:57:10,271 - Model - INFO - eval mIoU of spine          0.450306
+2024-12-24 11:57:10,271 - Model - INFO - Epoch 111 test Accuracy: 0.954746  Class avg mIOU: 0.450306   Inctance avg mIOU: 0.450306
+2024-12-24 11:57:10,271 - Model - INFO - Best accuracy is: 0.95558
+2024-12-24 11:57:10,271 - Model - INFO - Best class avg mIOU is: 0.45174
+2024-12-24 11:57:10,271 - Model - INFO - Best inctance avg mIOU is: 0.45174
+2024-12-24 11:57:10,271 - Model - INFO - Epoch 112 (112/5000):
+2024-12-24 11:57:10,271 - Model - INFO - Learning rate:0.000031
+2024-12-24 11:57:28,023 - Model - INFO - Train accuracy is: 0.95317
+2024-12-24 11:57:30,029 - Model - INFO - eval mIoU of spine          0.440747
+2024-12-24 11:57:30,029 - Model - INFO - Epoch 112 test Accuracy: 0.953473  Class avg mIOU: 0.440747   Inctance avg mIOU: 0.440747
+2024-12-24 11:57:30,029 - Model - INFO - Best accuracy is: 0.95558
+2024-12-24 11:57:30,029 - Model - INFO - Best class avg mIOU is: 0.45174
+2024-12-24 11:57:30,029 - Model - INFO - Best inctance avg mIOU is: 0.45174
+2024-12-24 11:57:30,029 - Model - INFO - Epoch 113 (113/5000):
+2024-12-24 11:57:30,029 - Model - INFO - Learning rate:0.000031
+2024-12-24 11:57:48,087 - Model - INFO - Train accuracy is: 0.95299
+2024-12-24 11:57:50,101 - Model - INFO - eval mIoU of spine          0.442527
+2024-12-24 11:57:50,101 - Model - INFO - Epoch 113 test Accuracy: 0.953239  Class avg mIOU: 0.442527   Inctance avg mIOU: 0.442527
+2024-12-24 11:57:50,101 - Model - INFO - Best accuracy is: 0.95558
+2024-12-24 11:57:50,101 - Model - INFO - Best class avg mIOU is: 0.45174
+2024-12-24 11:57:50,101 - Model - INFO - Best inctance avg mIOU is: 0.45174
+2024-12-24 11:57:50,101 - Model - INFO - Epoch 114 (114/5000):
+2024-12-24 11:57:50,101 - Model - INFO - Learning rate:0.000031
+2024-12-24 11:58:08,198 - Model - INFO - Train accuracy is: 0.95311
+2024-12-24 11:58:10,176 - Model - INFO - eval mIoU of spine          0.447777
+2024-12-24 11:58:10,176 - Model - INFO - Epoch 114 test Accuracy: 0.954068  Class avg mIOU: 0.447777   Inctance avg mIOU: 0.447777
+2024-12-24 11:58:10,176 - Model - INFO - Best accuracy is: 0.95558
+2024-12-24 11:58:10,176 - Model - INFO - Best class avg mIOU is: 0.45174
+2024-12-24 11:58:10,176 - Model - INFO - Best inctance avg mIOU is: 0.45174
+2024-12-24 11:58:10,176 - Model - INFO - Epoch 115 (115/5000):
+2024-12-24 11:58:10,176 - Model - INFO - Learning rate:0.000031
+2024-12-24 11:58:28,505 - Model - INFO - Train accuracy is: 0.95203
+2024-12-24 11:58:30,487 - Model - INFO - eval mIoU of spine          0.449255
+2024-12-24 11:58:30,488 - Model - INFO - Epoch 115 test Accuracy: 0.953502  Class avg mIOU: 0.449255   Inctance avg mIOU: 0.449255
+2024-12-24 11:58:30,488 - Model - INFO - Best accuracy is: 0.95558
+2024-12-24 11:58:30,488 - Model - INFO - Best class avg mIOU is: 0.45174
+2024-12-24 11:58:30,488 - Model - INFO - Best inctance avg mIOU is: 0.45174
+2024-12-24 11:58:30,488 - Model - INFO - Epoch 116 (116/5000):
+2024-12-24 11:58:30,488 - Model - INFO - Learning rate:0.000031
+2024-12-24 11:58:48,445 - Model - INFO - Train accuracy is: 0.95267
+2024-12-24 11:58:50,492 - Model - INFO - eval mIoU of spine          0.455108
+2024-12-24 11:58:50,493 - Model - INFO - Epoch 116 test Accuracy: 0.955707  Class avg mIOU: 0.455108   Inctance avg mIOU: 0.455108
+2024-12-24 11:58:50,493 - Model - INFO - Save model...
+2024-12-24 11:58:50,493 - Model - INFO - Saving at log/part_seg/2024-12-24_11-20/checkpoints/best_model.pth
+2024-12-24 11:58:50,574 - Model - INFO - Saving model....
+2024-12-24 11:58:50,575 - Model - INFO - Best accuracy is: 0.95571
+2024-12-24 11:58:50,575 - Model - INFO - Best class avg mIOU is: 0.45511
+2024-12-24 11:58:50,575 - Model - INFO - Best inctance avg mIOU is: 0.45511
+2024-12-24 11:58:50,575 - Model - INFO - Epoch 117 (117/5000):
+2024-12-24 11:58:50,575 - Model - INFO - Learning rate:0.000031
+2024-12-24 11:59:08,406 - Model - INFO - Train accuracy is: 0.95234
+2024-12-24 11:59:10,386 - Model - INFO - eval mIoU of spine          0.441752
+2024-12-24 11:59:10,386 - Model - INFO - Epoch 117 test Accuracy: 0.952956  Class avg mIOU: 0.441752   Inctance avg mIOU: 0.441752
+2024-12-24 11:59:10,386 - Model - INFO - Best accuracy is: 0.95571
+2024-12-24 11:59:10,386 - Model - INFO - Best class avg mIOU is: 0.45511
+2024-12-24 11:59:10,386 - Model - INFO - Best inctance avg mIOU is: 0.45511
+2024-12-24 11:59:10,386 - Model - INFO - Epoch 118 (118/5000):
+2024-12-24 11:59:10,386 - Model - INFO - Learning rate:0.000031
+2024-12-24 11:59:28,657 - Model - INFO - Train accuracy is: 0.95255
+2024-12-24 11:59:30,610 - Model - INFO - eval mIoU of spine          0.445753
+2024-12-24 11:59:30,610 - Model - INFO - Epoch 118 test Accuracy: 0.953673  Class avg mIOU: 0.445753   Inctance avg mIOU: 0.445753
+2024-12-24 11:59:30,610 - Model - INFO - Best accuracy is: 0.95571
+2024-12-24 11:59:30,610 - Model - INFO - Best class avg mIOU is: 0.45511
+2024-12-24 11:59:30,610 - Model - INFO - Best inctance avg mIOU is: 0.45511
+2024-12-24 11:59:30,610 - Model - INFO - Epoch 119 (119/5000):
+2024-12-24 11:59:30,610 - Model - INFO - Learning rate:0.000031
+2024-12-24 11:59:48,465 - Model - INFO - Train accuracy is: 0.95272
+2024-12-24 11:59:50,531 - Model - INFO - eval mIoU of spine          0.450241
+2024-12-24 11:59:50,531 - Model - INFO - Epoch 119 test Accuracy: 0.953893  Class avg mIOU: 0.450241   Inctance avg mIOU: 0.450241
+2024-12-24 11:59:50,531 - Model - INFO - Best accuracy is: 0.95571
+2024-12-24 11:59:50,531 - Model - INFO - Best class avg mIOU is: 0.45511
+2024-12-24 11:59:50,531 - Model - INFO - Best inctance avg mIOU is: 0.45511
+2024-12-24 11:59:50,531 - Model - INFO - Epoch 120 (120/5000):
+2024-12-24 11:59:50,531 - Model - INFO - Learning rate:0.000031
+2024-12-24 12:00:08,732 - Model - INFO - Train accuracy is: 0.95385
+2024-12-24 12:00:10,701 - Model - INFO - eval mIoU of spine          0.449277
+2024-12-24 12:00:10,701 - Model - INFO - Epoch 120 test Accuracy: 0.954385  Class avg mIOU: 0.449277   Inctance avg mIOU: 0.449277
+2024-12-24 12:00:10,701 - Model - INFO - Best accuracy is: 0.95571
+2024-12-24 12:00:10,701 - Model - INFO - Best class avg mIOU is: 0.45511
+2024-12-24 12:00:10,702 - Model - INFO - Best inctance avg mIOU is: 0.45511
+2024-12-24 12:00:10,702 - Model - INFO - Epoch 121 (121/5000):
+2024-12-24 12:00:10,702 - Model - INFO - Learning rate:0.000016
